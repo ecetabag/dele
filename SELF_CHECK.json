@@ -1,0 +1,11 @@
+{
+  "checks": {
+    "speaking_full_width": true,
+    "transcript_full_width": true,
+    "transcript_min_height": true,
+    "timer_structured": true,
+    "mobile_layout": true,
+    "syntax_ok": true
+  },
+  "node": ""
+}

@@ -1,0 +1,27 @@
+HOW TO START THE APP ON MAC
+
+1. Make sure macOS has a Spanish voice:
+   System Settings → Accessibility → Read & Speak
+   Set System speech language to Spanish and choose/download a Spanish voice.
+
+2. Double-click START_APP.command.
+
+That's it.
+
+START_APP.command will:
+- detect your installed Spanish Mac voice,
+- automatically generate any missing listening audio,
+- verify that the files exist,
+- start a local web server,
+- open the app in your browser.
+
+IMPORTANT:
+Do not open index.html directly for the listening exercises.
+Always use START_APP.command.
+
+To switch to a different Spanish Mac voice:
+1. Change the voice in System Settings.
+2. Double-click REGENERATE_SPANISH_AUDIO.command.
+3. Double-click START_APP.command again.
+
+Your config.js / Groq setup is unchanged.
