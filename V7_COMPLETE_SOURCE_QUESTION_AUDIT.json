@@ -1,0 +1,317 @@
+{
+  "checks": {
+    "frontend_syntax_ok": true,
+    "api_syntax_ok": true,
+    "all_30_days_have_source_guided": true,
+    "all_30_days_have_source_independent": true,
+    "day1_all_10_source_grammar_questions": true,
+    "day22_all_10_source_grammar_questions": true,
+    "all_nonrandom_source_tasks_embedded": true,
+    "day1_huerto_preserved": true,
+    "secure_groq_preserved": true,
+    "notebook_fix_preserved": true
+  },
+  "grammar_source_bank_count": 10,
+  "per_day": [
+    {
+      "day": 1,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 13,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": true
+    },
+    {
+      "day": 2,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 3,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 4,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 5,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 2,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 6,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 7,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 1,
+      "reflection_tasks": 1,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 8,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 9,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 10,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 11,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 2,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 12,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 13,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 14,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 1,
+      "reflection_tasks": 1,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 15,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 8,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 16,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 17,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 18,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 2,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 19,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 20,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 2,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 21,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 1,
+      "reflection_tasks": 1,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 22,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 13,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": true
+    },
+    {
+      "day": 23,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 8,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 24,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 3,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 25,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 2,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 26,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 0,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 27,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 2,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 28,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 1,
+      "reflection_tasks": 1,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 29,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 3,
+      "writing_task_widgets": 0,
+      "speaking_task_widgets": 0,
+      "reflection_tasks": 0,
+      "randomized_source_bank_expanded_to_all_10": false
+    },
+    {
+      "day": 30,
+      "source_guided_present": true,
+      "source_independent_present": true,
+      "visible_source_question_count": 6,
+      "writing_task_widgets": 2,
+      "speaking_task_widgets": 1,
+      "reflection_tasks": 1,
+      "randomized_source_bank_expanded_to_all_10": false
+    }
+  ]
+}

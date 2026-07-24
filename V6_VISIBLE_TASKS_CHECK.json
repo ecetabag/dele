@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "day1_has_timed_transfer": true,
+    "day1_has_answer_before_opening": true,
+    "day1_has_huerto": true,
+    "guided_uses_uploaded_source": true,
+    "independent_uses_uploaded_source": true,
+    "duplicate_source_section_removed": true,
+    "notebook_fix_preserved": true,
+    "secure_proxy_preserved": true,
+    "writing_history_preserved": true,
+    "speaking_history_preserved": true,
+    "frontend_syntax_ok": true,
+    "api_syntax_ok": true
+  },
+  "frontend_error": "",
+  "api_error": ""
+}
