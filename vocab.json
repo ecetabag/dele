@@ -1,0 +1,3884 @@
+[
+  {
+    "category": "Family & relationships",
+    "spanish": "el abuelo",
+    "english": "grandfather",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la abuela",
+    "english": "grandmother",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el gemelo; la gemela",
+    "english": "identical twin",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el hijo",
+    "english": "son",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la hija",
+    "english": "daughter",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la madre",
+    "english": "mother",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la madrina",
+    "english": "godmother",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el mellizo; la melliza",
+    "english": "fraternal twin",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el nieto; la nieta",
+    "english": "grandchild",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el padre",
+    "english": "father",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el padrino",
+    "english": "godfather",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el primo; la prima",
+    "english": "cousin",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el sobrino",
+    "english": "nephew",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la sobrina",
+    "english": "niece",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el tío",
+    "english": "uncle",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la tía",
+    "english": "aunt",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la familia política",
+    "english": "in-laws",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el cuñado",
+    "english": "brother-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la cuñada",
+    "english": "sister-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la nuera",
+    "english": "daughter-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el suegro",
+    "english": "father-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la suegra",
+    "english": "mother-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el yerno",
+    "english": "son-in-law",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el amigo; la amiga",
+    "english": "friend",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el colega; la colega",
+    "english": "colleague",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el compañero; la compañera",
+    "english": "partner, companion",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el desconocido; la desconocida",
+    "english": "stranger",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la pandilla",
+    "english": "gang, group of friends",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la pareja",
+    "english": "couple/partner",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el pariente; la pariente",
+    "english": "relative, relation",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el vecino; la vecina",
+    "english": "neighbor",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "alto; alta",
+    "english": "tall, high",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "bajo; baja",
+    "english": "short (in stature)",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "delgado; delgada",
+    "english": "slim, thin",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "fuerte",
+    "english": "strong",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "gordo; gorda",
+    "english": "fat",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "calvo",
+    "english": "bald",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "canoso",
+    "english": "gray haired",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "castaño",
+    "english": "brown; chestnut (hair color)",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "corto",
+    "english": "short (e.g. hair)",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "largo",
+    "english": "long",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "liso",
+    "english": "smooth/straight/flat (e.g. hair)",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "moreno",
+    "english": "dark-haired",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "pelirrojo",
+    "english": "redhead",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "rizado",
+    "english": "curly",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "rubio",
+    "english": "blonde",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "los ojos claros",
+    "english": "blue or green eyes",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "los ojos oscuros",
+    "english": "dark-colored eyes, brown eyes",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la cualidad",
+    "english": "quality, attribute, characteristic",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el defecto",
+    "english": "defect, flaw, fault",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la virtud",
+    "english": "virtue",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "abierto; abierta",
+    "english": "open, open-minded, outgoing",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "cerrado; cerrada",
+    "english": "closed, closed-minded, intransigent",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "aburrido; aburrida",
+    "english": "boring; bored",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "divertido; divertida",
+    "english": "funny, fun, entertaining",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "atento; atenta",
+    "english": "attentive, thoughtful",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "detallista",
+    "english": "painstaking, meticulous",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "egoísta",
+    "english": "selfish",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "generoso; generosa",
+    "english": "generous",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "nervioso; nerviosa",
+    "english": "nervous",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "tranquilo; tranquila",
+    "english": "quiet, calm, peaceful",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "optimista",
+    "english": "optimistic",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "pesimista",
+    "english": "pessimistic",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "puntual",
+    "english": "punctual",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "impuntual",
+    "english": "unpunctual",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "responsable",
+    "english": "responsible",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "irresponsable",
+    "english": "irresponsible",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "simpático; simpática",
+    "english": "nice, friendly",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "antipático; antipática",
+    "english": "unpleasant, unfriendly",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "tímido; tímida",
+    "english": "shy, timid",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "sociable",
+    "english": "sociable",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "trabajador; trabajadora",
+    "english": "hard working",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "vago; vaga",
+    "english": "lazy",
+    "pos": "adjective"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el egoísmo",
+    "english": "selfishness",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la generosidad",
+    "english": "generosity",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el optimismo",
+    "english": "optimism",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "el pesimismo",
+    "english": "pessimism",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la simpatía",
+    "english": "friendliness, sympathy",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "la timidez",
+    "english": "shyness, timidity",
+    "pos": "noun"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "caer bien (a); caer bien; caer bien a",
+    "english": "to please, to be liked",
+    "pos": "verbal phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "caer mal (a); caer mal; caer mal a",
+    "english": "to displease, to be disliked",
+    "pos": "verbal phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "casarse (con); casarse con; casarse",
+    "english": "to get married",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "divorciarse (de); divorciarse; divorciarse de",
+    "english": "to divorce",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "enamorarse (de); enamorarse de; enamorarse",
+    "english": "to fall in love",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "gustar",
+    "english": "to please, to taste",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "llevarse bien (con); llevarse bien con; llevarse bien; llevarse bien con alguien",
+    "english": "to get along (with someone)",
+    "pos": "verbal phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "parecerse (a); parecerse a; parecerse; parecerce a alguien; parecerse (a alguien)",
+    "english": "to be like or look like someone",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "pelearse (con); pelearse con; pelearse; pelear",
+    "english": "to fight, quarrel",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "quedar (con); quedar con; quedar; quedar con alguien; quedar (con alguien)",
+    "english": "to arrange to meet someone",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "romper (con); romper; romper con; romper con alguien; romper (con alguien)",
+    "english": "to break up (with someone)",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "separarse (de); separarse; separarse de; separarse de alguien; separarse (de alguien)",
+    "english": "to separate (from someone)",
+    "pos": "verb"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "ser almas gemelas",
+    "english": "to be soul mates",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "ser como dos gotas de agua",
+    "english": "to be identical, to be like two peas in a pod",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "ser uña y carne",
+    "english": "to be inseparable",
+    "pos": "phrase"
+  },
+  {
+    "category": "Family & relationships",
+    "spanish": "llevarse como el perro y gato; llevarse como perro y gato",
+    "english": "to fight like cats and dogs",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el dueño; la dueña",
+    "english": "owner, landlord",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el inquilino; la inquilina",
+    "english": "tenant",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el portero; la portera",
+    "english": "doorman, superintendent",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el ascensor",
+    "english": "lift, elevator",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el ático",
+    "english": "penthouse apartment, attic",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el bajo",
+    "english": "ground floor apartment",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el balcón",
+    "english": "balcony",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "las escaleras; la escalera",
+    "english": "stairs",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la pared",
+    "english": "wall",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el piso",
+    "english": "floor; apartment flat",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la planta",
+    "english": "floor",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el portal",
+    "english": "front door, entrance hall",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la puerta",
+    "english": "gate, door",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el sótano",
+    "english": "basement",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el techo",
+    "english": "ceiling; roof",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el tejado",
+    "english": "roof",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la vivienda",
+    "english": "housing, home",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el apartamento",
+    "english": "apartment, flat",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el estudio",
+    "english": "studio apartment; study; studio",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el chalé",
+    "english": "detached house with garden; cottage",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el dúplex",
+    "english": "duplex",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el baño",
+    "english": "bathroom",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cocina",
+    "english": "kitchen, stove",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el comedor",
+    "english": "dining room",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el dormitorio",
+    "english": "bedroom",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el dormitorio de matrimonio",
+    "english": "master bedroom",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la entrada",
+    "english": "entrance, entrance hall",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el recibidor",
+    "english": "entrance hall",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el pasillo",
+    "english": "hall, aisle",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el patio",
+    "english": "patio, courtyard",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la sala de estar",
+    "english": "living room",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el salón",
+    "english": "living room, lounge",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el mueble",
+    "english": "piece of furniture",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la alfombra",
+    "english": "carpet/rug",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el armario; el ropero",
+    "english": "closet",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cama",
+    "english": "bed",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cómoda",
+    "english": "chest of drawers",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el espejo",
+    "english": "mirror",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la estantería",
+    "english": "bookshelf",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la lámpara",
+    "english": "lamp",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la litera",
+    "english": "bunk bed",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la mesa",
+    "english": "table",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el escritorio",
+    "english": "desk",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la mesilla de noche; la mesita de noche",
+    "english": "bedside table",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el sillón",
+    "english": "arm chair",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el sofá",
+    "english": "sofa",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el electrodoméstico",
+    "english": "electrical household appliance",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el aire acondicionado",
+    "english": "air conditioner",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cocina eléctrica",
+    "english": "electric stove",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cocina de gas",
+    "english": "gas stove",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la cocina vitrocerámica",
+    "english": "glass ceramic stove",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la lavadora",
+    "english": "washing machine",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el lavavajillas; el lavavajilla; el lavaplatos",
+    "english": "dishwasher",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el microondas; el microonda; el horno microondas; el horno de microondas",
+    "english": "microwave oven",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la nevera; el frigorífico; el refrigerador",
+    "english": "refrigerator, fridge",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "los sanitarios",
+    "english": "bathroom fittings",
+    "pos": "plural noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la bañera",
+    "english": "bathtub",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el bidé",
+    "english": "bidet",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "la ducha",
+    "english": "shower",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el lavabo",
+    "english": "wash basin, sink",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "el váter; el wáter; el inodoro",
+    "english": "toilet",
+    "pos": "noun"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "alojarse",
+    "english": "to stay, lodge",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "alquilar",
+    "english": "to rent",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "amueblar",
+    "english": "to furnish",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "construir",
+    "english": "to construct, build",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "decorar",
+    "english": "to decorate",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "mudarse",
+    "english": "to move to a new home",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "reformar",
+    "english": "to renovate",
+    "pos": "verb"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "a las afueras",
+    "english": "on the outskirts",
+    "pos": "phrase"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "amplio; amplia",
+    "english": "spacious",
+    "pos": "adjective"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "interior",
+    "english": "interior",
+    "pos": "adjective"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "exterior",
+    "english": "external",
+    "pos": "adjective"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "luminoso; luminosa",
+    "english": "bright, luminous",
+    "pos": "adjective"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "oscuro; oscura",
+    "english": "dark",
+    "pos": "adjective"
+  },
+  {
+    "category": "Housing & home",
+    "spanish": "ruidoso; ruidosa",
+    "english": "noisy",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el albañil",
+    "english": "bricklayer",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el autónomo; la autónoma",
+    "english": "freelancer, self-employed person",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el ayudante; la ayudante",
+    "english": "assistant",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el carpintero; la carpintera",
+    "english": "carpenter",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el ejecutivo; la ejecutiva",
+    "english": "executive",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el electricista; la electricista",
+    "english": "electrician",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el empleado; la empleada",
+    "english": "clerk, office worker, employee",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el empresario; la empresaria",
+    "english": "businessperson, entrepreneur",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el fontanero; la fontanera",
+    "english": "plumber",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el funcionario; la funcionaria",
+    "english": "civil servant",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el ingeniero; la ingeniera",
+    "english": "engineer",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el intelectual; la intelectual",
+    "english": "intellectual",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el jubilado; la jubilada",
+    "english": "retiree",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el juez; la jueza",
+    "english": "judge",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el maestro; la maestra",
+    "english": "teacher",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el obrero; la obrera",
+    "english": "laborer",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el parado; la parada",
+    "english": "unemployed person",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el peluquero; la peluquera",
+    "english": "hairdresser, barber",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el periodista; la periodista",
+    "english": "journalist",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el sustituto; la sustituta",
+    "english": "substitute",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el traductor; la traductora",
+    "english": "translator",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el ascenso",
+    "english": "promotion at work",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el aumento; el aumento salarial; el aumento de sueldo",
+    "english": "pay raise",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el contrato",
+    "english": "contract",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la demanda",
+    "english": "demand, lawsuit",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la disponibilidad",
+    "english": "availability",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la entrevista de trabajo",
+    "english": "job interview",
+    "pos": "phrase"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el horario flexible",
+    "english": "flexible schedule",
+    "pos": "phrase"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la jornada",
+    "english": "working day",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la oferta; la oferta de trabajo; la oferta de empleo",
+    "english": "job offer",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el sindicato",
+    "english": "trade union",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el sueldo; el salario",
+    "english": "salary",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "contratar",
+    "english": "to hire",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "despedir",
+    "english": "to say goodbye; lay off; fire",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "firmar",
+    "english": "to sign a document",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "ganar; ganar sueldo; ganar dinero",
+    "english": "to win; earn",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "estar en el paro",
+    "english": "to be unemployed",
+    "pos": "phrase"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el anuncio de trabajo",
+    "english": "help wanted advertisement",
+    "pos": "phrase"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el candidato; la candidata",
+    "english": "candidate, job applicant",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el currículum vítae; el currículum vitae",
+    "english": "curriculum vitae, resume",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "indispensable; imprescindible",
+    "english": "indispensable",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el requisito",
+    "english": "requirement",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la asignatura",
+    "english": "subject in school",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "optativo; optativa",
+    "english": "optional",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "obligatorio; obligatoria",
+    "english": "compulsory",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "pendiente",
+    "english": "unresolved",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la beca",
+    "english": "scholarship, grant",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "teórico; teórica",
+    "english": "theoretical",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "práctico; práctica",
+    "english": "practical",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el doctorado",
+    "english": "doctorate",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la licenciatura; el título",
+    "english": "degree",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el máster; la maestría",
+    "english": "master's degree",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la selectividad",
+    "english": "university entrance exam in Spain",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la tutoría",
+    "english": "tutorial, course section",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "aprobar",
+    "english": "to pass an exam or class",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "matricular; matricularse",
+    "english": "to register, enroll",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "suspender",
+    "english": "to fail an exam or class",
+    "pos": "verb"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la academia",
+    "english": "academy",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el aula",
+    "english": "classroom",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el bufete",
+    "english": "legal practice, law office",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la clínica",
+    "english": "clinic",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la contabilidad",
+    "english": "accounting",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el márketing; la mercadotecnia; el mercadeo",
+    "english": "marketing",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "las ventas; la venta",
+    "english": "sales",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "financiero",
+    "english": "financial",
+    "pos": "adjective"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el despacho",
+    "english": "office",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la empresa",
+    "english": "company",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la fábrica",
+    "english": "factory",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la facultad",
+    "english": "faculty",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el laboratorio",
+    "english": "laboratory",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "la oficina",
+    "english": "office",
+    "pos": "noun"
+  },
+  {
+    "category": "Work & education",
+    "spanish": "el taller",
+    "english": "workshop",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la caja",
+    "english": "box, cashier's till",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el comprador; la compradora",
+    "english": "shopper, buyer",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el dependiente; la dependiente",
+    "english": "shop assistant, sales clerk",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el escaparate",
+    "english": "shop window",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "los grandes almacenes; la tienda de departamentos; la tienda departamental; el gran almacén",
+    "english": "department store",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el maniquí",
+    "english": "mannequin, model",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el mostrador",
+    "english": "counter",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la oferta",
+    "english": "bargain, special offer",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el probador",
+    "english": "fitting room",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la rebaja",
+    "english": "reduction, discount",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la tienda",
+    "english": "shop, store",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la ropa",
+    "english": "clothes, clothing",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el complemento",
+    "english": "accessory, complement",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el tique de compra; el tique; el tíquet de compra; el tíquet",
+    "english": "receipt",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el vendedor; la vendedora",
+    "english": "sales person",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la zapatería",
+    "english": "shoe store",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "a la moda",
+    "english": "fashionable",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "pasado de moda; pasada de moda",
+    "english": "out of fashion, old-fashioned",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "clásico; clásica",
+    "english": "classical, vintage, traditional",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "moderno; moderna",
+    "english": "modern",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "actual",
+    "english": "current, present",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "deportivo; deportiva",
+    "english": "casual, sportswear style",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "elegante",
+    "english": "elegant",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "formal",
+    "english": "formal",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "informal",
+    "english": "informal",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la manga",
+    "english": "sleeve",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el tejido; la tela",
+    "english": "fabric",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el algodón",
+    "english": "cotton",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el cuero",
+    "english": "leather",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la lana",
+    "english": "wool",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la piel",
+    "english": "fur",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la seda",
+    "english": "silk",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "sintético; sintética",
+    "english": "synthetic",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el motivo",
+    "english": "motive, reason, motif/design",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "de cuadros; a cuadros",
+    "english": "checked, plaid",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "de lunares; a lunares",
+    "english": "polka dot",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "de rayas; a rayas",
+    "english": "striped",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "liso",
+    "english": "plain, solid color",
+    "pos": "adjective"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la prenda; la prenda de vestir",
+    "english": "garment, article of clothing",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el abrigo",
+    "english": "coat",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la blusa",
+    "english": "blouse",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la camiseta",
+    "english": "T-shirt, undershirt",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la chaqueta",
+    "english": "jacket",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el traje",
+    "english": "suit",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "los vaqueros",
+    "english": "jeans",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "las bragas",
+    "english": "panties",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "los calcetines; el calcetín",
+    "english": "socks",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "los calzoncillos",
+    "english": "briefs, underpants",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "las medias",
+    "english": "stockings",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el pijama; los pijamas; el piyama; los piyamas",
+    "english": "pajamas",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el sujetador",
+    "english": "bra",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la ropa interior; la ropa íntima",
+    "english": "undergarments",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el calzado",
+    "english": "footwear",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la bota; las botas",
+    "english": "boot",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la sandalia; las sandalias",
+    "english": "sandal",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la zapatilla de casa; las zapatillas de casa",
+    "english": "house slipper",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la zapatilla de deportes; las zapatillas de deportes",
+    "english": "athletic shoe",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el zapato de tacón; los zapatos de tacón; el zapato alto; los zapatos altos",
+    "english": "high-heeled shoe",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el anillo",
+    "english": "ring",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el crucero",
+    "english": "cruise, cruise ship",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el collar",
+    "english": "necklace",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "las gafas de sol; los lentes de sol; los anteojos de sol",
+    "english": "sunglasses",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la joya",
+    "english": "jewel, gem",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el pendiente; los pendientes; el arete; los aretes",
+    "english": "earring",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la pulsera",
+    "english": "bracelet",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "cobrar",
+    "english": "to charge, cash",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "devolver",
+    "english": "to refund, return",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "elegir",
+    "english": "to choose",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "ir de compras",
+    "english": "to go shopping",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "probarse",
+    "english": "to try on",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "pagar",
+    "english": "to pay",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la tarjeta de crédito",
+    "english": "credit card",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "quedar",
+    "english": "to remain, meet, fit clothes",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el billete",
+    "english": "bill/ticket",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el cajero automático",
+    "english": "ATM, cashpoint",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el cambio",
+    "english": "change; currency exchange",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el cheque",
+    "english": "check",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el crédito",
+    "english": "credit",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la cuenta",
+    "english": "account, bill",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el depósito",
+    "english": "deposit",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la moneda",
+    "english": "coin",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el préstamo",
+    "english": "loan",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "el recibo; el recibo de compra",
+    "english": "receipt",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la tarjeta de débito",
+    "english": "debit card",
+    "pos": "phrase"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "la transferencia",
+    "english": "bank transfer",
+    "pos": "noun"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "ahorrar",
+    "english": "to save",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "ingresar; meter; depositar",
+    "english": "to deposit",
+    "pos": "verb"
+  },
+  {
+    "category": "Shopping, clothing & money",
+    "spanish": "retirar; sacar",
+    "english": "to withdraw",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "el cirujano; la cirujana",
+    "english": "surgeon",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el enfermero; la enfermera",
+    "english": "nurse",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el ginecólogo; la ginecóloga",
+    "english": "gynecologist",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el médico de familia; la médica de familia",
+    "english": "family physician",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el pediatra; la pediatra",
+    "english": "pediatrician",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el traumatólogo",
+    "english": "traumatologist",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el centro de salud",
+    "english": "health center",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "la consulta",
+    "english": "doctor's office",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la farmacia",
+    "english": "pharmacy",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el hospital",
+    "english": "hospital",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la sala de operaciones",
+    "english": "operating room",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "las urgencias",
+    "english": "emergency room",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el brazo",
+    "english": "arm",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el codo",
+    "english": "elbow",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el corazón",
+    "english": "heart",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la espalda",
+    "english": "back",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el estómago",
+    "english": "stomach",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la garganta",
+    "english": "throat",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el hueso",
+    "english": "bone",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la muela; el molar",
+    "english": "molar",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la muñeca",
+    "english": "wrist, doll",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el músculo",
+    "english": "muscle",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el oído",
+    "english": "inner ear",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el pecho",
+    "english": "chest",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el pulmón",
+    "english": "lung",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la rodilla",
+    "english": "knee",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el tobillo",
+    "english": "ankle",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el antibiótico",
+    "english": "antibiotic",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la aspirina",
+    "english": "aspirin",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la cápsula",
+    "english": "capsule",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el comprimido",
+    "english": "pill, tablet",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la crema",
+    "english": "cream",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "las gotas",
+    "english": "drops",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la inyección",
+    "english": "injection",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el jarabe",
+    "english": "syrup",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la pastilla",
+    "english": "pill, tablet",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la píldora",
+    "english": "pill, tablet",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la pomada",
+    "english": "ointment",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la vacuna",
+    "english": "vaccine",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el acné",
+    "english": "acne",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la alergia",
+    "english": "allergy",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la anorexia",
+    "english": "anorexia",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la bulimia",
+    "english": "bulimia",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el catarro; el resfriado",
+    "english": "a cold",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la fiebre",
+    "english": "fever",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la gripe",
+    "english": "flu",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la obesidad",
+    "english": "obesity",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la tos",
+    "english": "cough",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la acupuntura",
+    "english": "acupuncture",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la aromaterapia",
+    "english": "aromatherapy",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el balneario",
+    "english": "spa, health resort",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "las hierbas medicinales",
+    "english": "medicinal herbs",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "la homeopatía",
+    "english": "homeopathy",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el masaje",
+    "english": "massage",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la terapia",
+    "english": "therapy",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el alcohol",
+    "english": "alcohol",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el análisis",
+    "english": "analysis, medical test",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la sangre",
+    "english": "blood",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la orina",
+    "english": "urine",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "la tirita; el vendaje",
+    "english": "bandage",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "el termómetro",
+    "english": "thermometer",
+    "pos": "noun"
+  },
+  {
+    "category": "Health",
+    "spanish": "adelgazar",
+    "english": "to slim, lose weight",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "automedicarse",
+    "english": "to self-medicate",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "curar",
+    "english": "to heal, cure",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "diagnosticar",
+    "english": "to diagnose",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "agotado; agotada",
+    "english": "exhausted",
+    "pos": "adjective"
+  },
+  {
+    "category": "Health",
+    "spanish": "estresado; estresada",
+    "english": "stressed",
+    "pos": "adjective"
+  },
+  {
+    "category": "Health",
+    "spanish": "mareado; mareada",
+    "english": "dizzy, queasy, seasick",
+    "pos": "adjective"
+  },
+  {
+    "category": "Health",
+    "spanish": "estar resfriado",
+    "english": "to have a cold",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "fallecer",
+    "english": "to die",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "mejorar",
+    "english": "to improve",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "operar",
+    "english": "to operate",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "ponerse enfermo; caer enfermo; enfermarse",
+    "english": "to fall ill",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "prohibir",
+    "english": "to prohibit, ban",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "recomendar",
+    "english": "to recommend",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "romperse un hueso",
+    "english": "to break a bone",
+    "pos": "verb"
+  },
+  {
+    "category": "Health",
+    "spanish": "sentirse bien",
+    "english": "to feel well",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "sentirse mal",
+    "english": "to feel bad",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "tener buena salud",
+    "english": "to have good health",
+    "pos": "phrase"
+  },
+  {
+    "category": "Health",
+    "spanish": "tener mala salud",
+    "english": "to have bad health",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el cinturón de seguridad",
+    "english": "safety belt",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la escala",
+    "english": "stopover, port of call",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la fila",
+    "english": "row of seats",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el maletero",
+    "english": "car trunk",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el mostrador de facturación",
+    "english": "check-in desk",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la pista",
+    "english": "airport runway",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la puerta de embarque",
+    "english": "boarding gate",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el punto de encuentro",
+    "english": "meeting point",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la sala de embarque",
+    "english": "departure lounge",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la sala de llegadas",
+    "english": "arrivals area",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la tarjeta de embarque",
+    "english": "boarding pass",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la terminal",
+    "english": "terminal",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el vagón",
+    "english": "train car",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la ventanilla",
+    "english": "small window",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el conserje; la conserje",
+    "english": "concierge",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el guía; la guía",
+    "english": "guide",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el recepcionista; la recepcionista",
+    "english": "receptionist",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el viajero; la viajera",
+    "english": "traveller",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el alojamiento",
+    "english": "accommodation, lodging",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el alojamiento y desayuno",
+    "english": "bed and breakfast",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la casa rural",
+    "english": "holiday cottage, vacation home",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el hostal",
+    "english": "hostel",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "las instalaciones para discapacitados",
+    "english": "facilities for disabled people",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la pensión",
+    "english": "guest house",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la pensión media; la media pensión",
+    "english": "half board",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la pensión completa",
+    "english": "full board",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el servicio de habitaciones",
+    "english": "room service",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la tienda de campaña",
+    "english": "tent",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el billete de ida y vuelta",
+    "english": "round-trip ticket",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la bolsa de aseo",
+    "english": "toiletry bag",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la bolsa de viaje",
+    "english": "travel bag",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la bolsa de mano",
+    "english": "overnight bag",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el Documento Nacional de Identidad",
+    "english": "national identification card",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el equipaje",
+    "english": "luggage",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el exceso de equipaje",
+    "english": "excess baggage",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el mapa de carreteras",
+    "english": "highway map",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el paisaje",
+    "english": "landscape, scenery",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el plano turístico",
+    "english": "tourist map",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la reserva; la reservación",
+    "english": "reservation",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el saco de dormir",
+    "english": "sleeping bag",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la selva; la jungla",
+    "english": "jungle",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "el visado; la visa",
+    "english": "visa",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la vista panorámica",
+    "english": "panoramic view",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "aburrirse",
+    "english": "to get bored",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "anular",
+    "english": "to cancel",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "cancelar",
+    "english": "to cancel",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "aterrizar",
+    "english": "to land",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "despegar",
+    "english": "to take off",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "divertirse",
+    "english": "to enjoy oneself",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "facturar",
+    "english": "to check in",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la caravana",
+    "english": "caravan, camper van",
+    "pos": "noun"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "la plaza libre",
+    "english": "available space",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "ir de camping; acampar",
+    "english": "to go camping",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "navegar",
+    "english": "to navigate, sail, browse",
+    "pos": "verb"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "perder las maletas",
+    "english": "to lose the suitcases",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "perder el tren",
+    "english": "to miss the train",
+    "pos": "phrase"
+  },
+  {
+    "category": "Travel & transport",
+    "spanish": "recoger el equipaje",
+    "english": "to collect luggage",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el clima húmedo",
+    "english": "humid climate",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el clima seco",
+    "english": "dry climate",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "despejado",
+    "english": "clear weather",
+    "pos": "adjective"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "lluvioso",
+    "english": "rainy",
+    "pos": "adjective"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "nublado",
+    "english": "cloudy",
+    "pos": "adjective"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "soleado",
+    "english": "sunny",
+    "pos": "adjective"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el granizo",
+    "english": "hail",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el huracán",
+    "english": "hurricane",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la tormenta",
+    "english": "storm",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el medioambiente; el medio ambiente",
+    "english": "natural environment",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la naturaleza",
+    "english": "nature",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la capa de ozono",
+    "english": "ozone layer",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el agujero de la capa de ozono",
+    "english": "hole in the ozone layer",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el cambio climático",
+    "english": "climate change",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la contaminación",
+    "english": "pollution",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el contenedor de reciclaje",
+    "english": "recycling container",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la ecología",
+    "english": "ecology",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "las energías alternativas; la energía alternativa",
+    "english": "alternative energy",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "el parque natural",
+    "english": "nature park, reserve",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "la polución",
+    "english": "pollution",
+    "pos": "noun"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "los recursos naturales",
+    "english": "natural resources",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "colaborar como voluntario",
+    "english": "to volunteer",
+    "pos": "phrase"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "conservar",
+    "english": "to conserve, preserve",
+    "pos": "verb"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "contaminar",
+    "english": "to contaminate",
+    "pos": "verb"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "proteger",
+    "english": "to protect",
+    "pos": "verb"
+  },
+  {
+    "category": "Weather & environment",
+    "spanish": "reciclar",
+    "english": "to recycle",
+    "pos": "verb"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el casco antiguo",
+    "english": "old part of town",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el casco histórico",
+    "english": "historic city center",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el túnel",
+    "english": "tunnel",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la vía",
+    "english": "route, rails, track, path",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la zona céntrica",
+    "english": "central area",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la zona comercial",
+    "english": "commercial area",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la zona industrial",
+    "english": "industrial area",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la zona peatonal",
+    "english": "pedestrian area",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la zona residencial",
+    "english": "residential area",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "los aseos públicos",
+    "english": "public toilets",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el buzón de correos",
+    "english": "mailbox",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la comisaría de policía; la comisaría; la estación de policía",
+    "english": "police station",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la gasolinera",
+    "english": "gas station",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el parque",
+    "english": "fleet of vehicles",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el bombero; la bombera",
+    "english": "firefighter",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el parque de bomberos",
+    "english": "fire station",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el andén",
+    "english": "train platform",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el asiento",
+    "english": "seat",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el atasco",
+    "english": "traffic jam",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la autopista; la carretera",
+    "english": "highway",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la boca de metro",
+    "english": "subway entrance",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el camión",
+    "english": "truck",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el carril bus",
+    "english": "bus lane",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el carril bici",
+    "english": "bike lane",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la circulación",
+    "english": "traffic",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el embotellamiento",
+    "english": "traffic jam",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la inseguridad ciudadana",
+    "english": "lack of safety in the streets",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el paso de cebra",
+    "english": "crosswalk",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el peatón; la peatona",
+    "english": "pedestrian",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el paso de peatones",
+    "english": "crosswalk",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "el ciudadano; la ciudadana",
+    "english": "citizen",
+    "pos": "noun"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "la guardia de tráfico",
+    "english": "traffic officer",
+    "pos": "phrase"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "aparcar",
+    "english": "to park",
+    "pos": "verb"
+  },
+  {
+    "category": "City & public services",
+    "spanish": "girar",
+    "english": "to turn",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la correspondencia escrita; la correspondencia",
+    "english": "written correspondence, mail",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el apartado de correos; apartado postal",
+    "english": "post office box",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el destinatario",
+    "english": "addressee, payee",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "mandar por correo; enviar por correo",
+    "english": "to send by mail",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la posdata",
+    "english": "postscript",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el remitente",
+    "english": "sender",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el antivirus",
+    "english": "antivirus",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la conexión a Internet",
+    "english": "Internet connection",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la contraseña",
+    "english": "password",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el navegador",
+    "english": "Internet browser",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el nombre de usuario",
+    "english": "username",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la agencia de prensa",
+    "english": "news agency",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el anuncio",
+    "english": "advertisement, announcement",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el artículo",
+    "english": "news article",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la cartelera",
+    "english": "billboard",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el editorial",
+    "english": "editorial",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la emisora",
+    "english": "radio station",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el episodio",
+    "english": "episode",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el locutor; la locutora",
+    "english": "announcer, presenter",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el periodismo",
+    "english": "journalism",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la telebasura",
+    "english": "trash TV",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la batería",
+    "english": "battery",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el buzón de voz",
+    "english": "voice mail",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "el contestador; el contestador automático",
+    "english": "answering machine",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la extensión",
+    "english": "extension",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la línea ocupada",
+    "english": "busy line",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "la llamada; la llamada telefónica",
+    "english": "telephone call",
+    "pos": "noun"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "acceder a una página",
+    "english": "to access or log in",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "adjuntar",
+    "english": "to attach, enclose",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "atender una llamada; contestar una llamada",
+    "english": "to answer a phone call",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "colgar el teléfono",
+    "english": "to hang up",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "comunicarse con alguien",
+    "english": "to communicate with someone",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "conectarse a Internet",
+    "english": "to go online",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "descolgar el teléfono",
+    "english": "to pick up the phone",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "desviar una llamada",
+    "english": "to forward or transfer a call",
+    "pos": "verb"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "bien informado; bien informada",
+    "english": "well informed",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "mal informado; mal informada",
+    "english": "misinformed",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "ponerse al teléfono",
+    "english": "to get on the phone",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "quedarse sin batería",
+    "english": "to run out of battery",
+    "pos": "phrase"
+  },
+  {
+    "category": "Communication & technology",
+    "spanish": "reenviar",
+    "english": "to forward an email",
+    "pos": "verb"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el árbitro",
+    "english": "referee",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el bailarín; la bailarina",
+    "english": "dancer",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el compositor; la compositora",
+    "english": "composer",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el deportista; la deportista",
+    "english": "sportsman, sportswoman",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el entrenador; la entrenadora",
+    "english": "coach",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el equipo",
+    "english": "team",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el escultor; la escultora",
+    "english": "sculptor",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el espectador; la espectadora",
+    "english": "spectator",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el futbolista; la futbolista",
+    "english": "soccer player",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el guitarrista; la guitarrista",
+    "english": "guitarist",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el jugador; la jugadora",
+    "english": "player",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el novelista; la novelista",
+    "english": "novelist",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el personaje",
+    "english": "character, celebrity",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el pianista; la pianista",
+    "english": "pianist",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el poeta; la poeta; la poetisa",
+    "english": "poet",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el protagonista; la protagonista",
+    "english": "main character",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el público; la audiencia; el auditorio",
+    "english": "audience, crowd",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el violinista; la violinista",
+    "english": "violinist",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el campo de fútbol",
+    "english": "football field",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el estadio",
+    "english": "stadium",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la galería",
+    "english": "gallery",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el parque de atracciones",
+    "english": "amusement park",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la pista de tenis; la cancha de tenis",
+    "english": "tennis court",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el polideportivo",
+    "english": "sports center",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el espectáculo",
+    "english": "show, performance",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el ballet",
+    "english": "ballet",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la comedia",
+    "english": "comedy",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el drama",
+    "english": "drama",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el escenario",
+    "english": "stage",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la obra de teatro",
+    "english": "stage play",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el partido",
+    "english": "sports match",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película romántica",
+    "english": "romantic movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película de acción",
+    "english": "action movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película de dibujos animados; los dibujos animados",
+    "english": "animated film",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película de ciencia ficción",
+    "english": "science fiction movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película policíaca",
+    "english": "crime movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película doblada",
+    "english": "dubbed movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la película subtitulada",
+    "english": "subtitled movie",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la autobiografía",
+    "english": "autobiography",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la biografía",
+    "english": "biography",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el capítulo",
+    "english": "chapter",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la literatura clásica",
+    "english": "classic literature",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la literatura moderna",
+    "english": "modern literature",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la novela policíaca",
+    "english": "crime novel",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la novela de aventuras",
+    "english": "adventure novel",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la novela histórica",
+    "english": "historical novel",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el poema",
+    "english": "poem",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el atletismo",
+    "english": "athletics",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el balonmano",
+    "english": "handball",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el béisbol",
+    "english": "baseball",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el billar",
+    "english": "billiards",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "los bolos; el boliche",
+    "english": "bowling",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "los dardos",
+    "english": "darts",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el ciclismo",
+    "english": "cycling",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el concurso",
+    "english": "contest",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la consola de videojuegos",
+    "english": "video game console",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el dado; los dados",
+    "english": "die, dice",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el juego de mesa",
+    "english": "board game",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el juego de cartas; el juego de naipes",
+    "english": "card game",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la natación",
+    "english": "swimming",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el tablero",
+    "english": "game board",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el videojuego",
+    "english": "video game",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el voleibol",
+    "english": "volleyball",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el balón; la bola",
+    "english": "ball",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el descanso",
+    "english": "intermission, half-time",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el día del espectador",
+    "english": "discount cinema day",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la pantalla",
+    "english": "screen",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la pelota",
+    "english": "ball",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la sesión",
+    "english": "show, performance",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "la taquilla",
+    "english": "box office",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "dar un paseo",
+    "english": "to take a walk",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "disfrutar",
+    "english": "to enjoy",
+    "pos": "verb"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "empatar",
+    "english": "to tie a game",
+    "pos": "verb"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "hacer cola",
+    "english": "to queue",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "inscribirse en",
+    "english": "to enroll in",
+    "pos": "verb"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "pasarlo bien",
+    "english": "to have a good time",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "pasarlo mal",
+    "english": "to have a bad time",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "sacar las entradas; sacar los boletos",
+    "english": "to get tickets",
+    "pos": "phrase"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "el aficionado",
+    "english": "fan, amateur",
+    "pos": "noun"
+  },
+  {
+    "category": "Media, arts, sports & leisure",
+    "spanish": "tratar de",
+    "english": "to be about",
+    "pos": "phrase"
+  }
+]

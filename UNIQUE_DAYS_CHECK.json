@@ -1,0 +1,13 @@
+{
+  "30_day_practice_records": true,
+  "unique_quiz_dataset_present": true,
+  "guided_uses_day_data": true,
+  "independent_uses_day_data": true,
+  "vocab_uses_day_data": true,
+  "old_lucia_guided_removed": true,
+  "old_same_room_reading_removed": true,
+  "old_same_writing_prompt_removed": true,
+  "syntax_ok": true,
+  "writing_feedback_uses_daily_prompt": true,
+  "speaking_feedback_uses_daily_prompt": true
+}

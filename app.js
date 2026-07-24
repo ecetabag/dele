@@ -66,6 +66,8 @@ const days=[
 ['Full timed mock + final review','Final','Timed simulation, readiness check and next-step plan']
 ];
 
+const dayPracticeData=[{"title":"Identity & ser","passage":"Me llamo Ana y soy de Granada. Soy estudiante de diseño y mi hermano es médico.","guidedQuestions":["¿Cómo se llama la persona?","¿De dónde es Ana?","¿Qué estudia?","¿Qué profesión tiene su hermano?"],"guidedAnswers":[["ana"],["granada"],["diseño","diseno"],["médico","medico"]],"readingText":"Soy de Colombia y trabajo como arquitecto. Busco un intercambio de idiomas los jueves.","readingQuestion":"Who would be a good match for this person?","readingCorrect":"Someone who wants to practice languages on Thursdays","readingWrong":"Someone only available on Mondays","writingPrompt":"Introduce yourself: name, origin, studies/work, and one personal detail.","speakingPrompt":"Introduce yourself for about one minute as if you were meeting a new classmate.","vocab":[["el abuelo","grandfather"],["la abuela","grandmother"],["el gemelo; la gemela","identical twin"],["el hijo","son"],["la hija","daughter"],["la madre","mother"],["la madrina","godmother"],["el mellizo; la melliza","fraternal twin"]],"vocabCategory":"Family & relationships","listeningText":"Me llamo Ana y soy de Granada. Soy estudiante de diseño y mi hermano es médico.","listeningQuestion":"¿Cómo se llama la persona?","listeningCorrect":"ana","listeningWrong":"No se menciona en el audio."},{"title":"Gender, articles & hay","passage":"En mi barrio hay una biblioteca pequeña, dos parques grandes y un mercado nuevo. La biblioteca está frente al banco.","guidedQuestions":["Name one feminine singular noun with its article.","Name one masculine singular noun with its article.","How many parks are there?","What is opposite the bank?"],"guidedAnswers":[["la biblioteca"],["el mercado","el banco"],["dos","2"],["biblioteca"]],"readingText":"Se vende una mesa blanca con cuatro sillas negras. Todo está en buen estado.","readingQuestion":"What is being sold?","readingCorrect":"A table with four chairs","readingWrong":"A sofa with two chairs","writingPrompt":"Describe your room using articles, adjective agreement, and hay.","speakingPrompt":"Describe what there is in your room or apartment, using at least five nouns with articles.","vocab":[["el dueño; la dueña","owner, landlord"],["el inquilino; la inquilina","tenant"],["el portero; la portera","doorman, superintendent"],["el ascensor","lift, elevator"],["el ático","penthouse apartment, attic"],["el bajo","ground floor apartment"],["el balcón","balcony"],["las escaleras; la escalera","stairs"]],"vocabCategory":"Housing & home","listeningText":"En mi barrio hay una biblioteca pequeña, dos parques grandes y un mercado nuevo. La biblioteca está frente al banco.","listeningQuestion":"Name one feminine singular noun with its article.","listeningCorrect":"la biblioteca","listeningWrong":"No se menciona en el audio."},{"title":"Numbers, dates & questions","passage":"La fiesta es el 14 de mayo a las ocho. La entrada cuesta 12 euros y los estudiantes pagan 8.","guidedQuestions":["What date is the party?","What time does it start?","How much is the normal ticket?","How much do students pay?"],"guidedAnswers":[["14","catorce","mayo"],["ocho","8"],["12","doce"],["8","ocho"]],"readingText":"Curso intensivo: del 3 al 17 de junio. Precio: 95 euros. Información: 91 555 24 80.","readingQuestion":"How long does the course run?","readingCorrect":"From June 3 to June 17","readingWrong":"From May 3 to May 17","writingPrompt":"Write a short message asking for the date, time, price, and location of an event.","speakingPrompt":"Ask four practical questions about a course you want to join.","vocab":[["liso","smooth/straight/flat (e.g. hair)"],["la caja","box, cashier's till"],["el comprador; la compradora","shopper, buyer"],["el dependiente; la dependiente","shop assistant, sales clerk"],["el escaparate","shop window"],["los grandes almacenes; la tienda de departamentos; la tienda departamental; el gran almacén","department store"],["el maniquí","mannequin, model"],["el mostrador","counter"]],"vocabCategory":"Shopping, clothing & money","listeningText":"La fiesta es el 14 de mayo a las ocho. La entrada cuesta 12 euros y los estudiantes pagan 8.","listeningQuestion":"What date is the party?","listeningCorrect":"14","listeningWrong":"No se menciona en el audio."},{"title":"Regular present tense","passage":"Carlos trabaja en una tienda, vive cerca del centro y estudia inglés por la noche. Los fines de semana cocina con sus amigos.","guidedQuestions":["Where does Carlos work?","Where does he live?","What does he study?","What does he do on weekends?"],"guidedAnswers":[["tienda"],["centro"],["inglés","ingles"],["cocina"]],"readingText":"Marta busca compañera de piso. Trabaja desde casa, estudia por las tardes y no fuma.","readingQuestion":"Which statement is true?","readingCorrect":"Marta works from home","readingWrong":"Marta works at a hospital","writingPrompt":"Describe your normal weekday using at least six present-tense verbs.","speakingPrompt":"Talk about your weekday routine from morning to night.","vocab":[["el albañil","bricklayer"],["el autónomo; la autónoma","freelancer, self-employed person"],["el ayudante; la ayudante","assistant"],["el carpintero; la carpintera","carpenter"],["el ejecutivo; la ejecutiva","executive"],["el electricista; la electricista","electrician"],["el empleado; la empleada","clerk, office worker, employee"],["el empresario; la empresaria","businessperson, entrepreneur"]],"vocabCategory":"Work & education","listeningText":"Carlos trabaja en una tienda, vive cerca del centro y estudia inglés por la noche. Los fines de semana cocina con sus amigos.","listeningQuestion":"Where does Carlos work?","listeningCorrect":"tienda","listeningWrong":"No se menciona en el audio."},{"title":"Essential irregular verbs","passage":"Hoy tengo mucho trabajo, pero quiero ir al gimnasio. Después hago la compra y vengo a casa a las nueve.","guidedQuestions":["What does the speaker have today?","Where do they want to go?","What do they do afterward?","What time do they come home?"],"guidedAnswers":[["trabajo"],["gimnasio"],["compra"],["nueve","9"]],"readingText":"Puedo ayudarte con la mudanza el sábado, pero tengo que salir antes de las seis.","readingQuestion":"What limitation does the person have?","readingCorrect":"They must leave before six","readingWrong":"They cannot help on Saturday","writingPrompt":"Write about your plans using tener, ir, hacer, poder, and querer.","speakingPrompt":"Explain what you want, can, and have to do this weekend.","vocab":[["el casco antiguo","old part of town"],["el casco histórico","historic city center"],["el túnel","tunnel"],["la vía","route, rails, track, path"],["la zona céntrica","central area"],["la zona comercial","commercial area"],["la zona industrial","industrial area"],["la zona peatonal","pedestrian area"]],"vocabCategory":"City & public services","listeningText":"Hoy tengo mucho trabajo, pero quiero ir al gimnasio. Después hago la compra y vengo a casa a las nueve.","listeningQuestion":"What does the speaker have today?","listeningCorrect":"trabajo","listeningWrong":"No se menciona en el audio."},{"title":"Ser vs estar vs hay","passage":"La cafetería es moderna y está en la plaza. Hoy está cerrada, pero hay otra cafetería abierta junto al museo.","guidedQuestions":["What is the first café like?","Where is it?","What is its state today?","What exists next to the museum?"],"guidedAnswers":[["moderna"],["plaza"],["cerrada"],["cafetería","cafeteria"]],"readingText":"Hay una farmacia en esta calle. Está al lado del hotel y es bastante grande.","readingQuestion":"Which verb introduces the pharmacy's existence?","readingCorrect":"hay","readingWrong":"es","writingPrompt":"Describe a place using ser, estar, and hay correctly.","speakingPrompt":"Describe your neighborhood and explain what places there are and where they are.","vocab":[["la pared","wall"],["el piso","floor; apartment flat"],["la planta","floor"],["el portal","front door, entrance hall"],["la puerta","gate, door"],["el sótano","basement"],["el techo","ceiling; roof"],["el tejado","roof"]],"vocabCategory":"Housing & home","listeningText":"La cafetería es moderna y está en la plaza. Hoy está cerrada, pero hay otra cafetería abierta junto al museo.","listeningQuestion":"What is the first café like?","listeningCorrect":"moderna","listeningWrong":"No se menciona en el audio."},{"title":"Foundation review + mock","passage":"Julia es mexicana, vive en Bilbao y trabaja en una escuela. Tiene 29 años y habla español, inglés y francés.","guidedQuestions":["Where is Julia from?","Where does she live?","How old is she?","How many languages are mentioned?"],"guidedAnswers":[["méxico","mexico","mexicana"],["bilbao"],["29","veintinueve"],["tres","3"]],"readingText":"Reunión de intercambio: viernes 19:00, Centro Cultural Norte. Entrada gratuita.","readingQuestion":"What does it cost to attend?","readingCorrect":"Nothing; it is free","readingWrong":"19 euros","writingPrompt":"Write a 90-word profile introducing a fictional person and their routine.","speakingPrompt":"Give a one-minute personal introduction, then answer two imagined follow-up questions.","vocab":[["el nieto; la nieta","grandchild"],["el padre","father"],["el padrino","godfather"],["el primo; la prima","cousin"],["el sobrino","nephew"],["la sobrina","niece"],["el tío","uncle"],["la tía","aunt"]],"vocabCategory":"Family & relationships","listeningText":"Julia es mexicana, vive en Bilbao y trabaja en una escuela. Tiene 29 años y habla español, inglés y francés.","listeningQuestion":"Where is Julia from?","listeningCorrect":"méxico","listeningWrong":"No se menciona en el audio."},{"title":"Reflexives & routines","passage":"Me despierto a las siete, me ducho y me visto rápido. Después desayuno y salgo de casa a las ocho.","guidedQuestions":["What time does the speaker wake up?","What do they do after waking up?","Which reflexive verb means 'I get dressed'?","What time do they leave home?"],"guidedAnswers":[["siete","7"],["ducho","duchar"],["me visto"],["ocho","8"]],"readingText":"Los domingos me levanto tarde, me preparo café y me acuesto después de medianoche.","readingQuestion":"Which day is described?","readingCorrect":"Sunday","readingWrong":"Monday","writingPrompt":"Describe your morning and evening routine using at least five reflexive verbs.","speakingPrompt":"Explain your daily routine and compare weekdays with weekends.","vocab":[["la familia política","in-laws"],["el cuñado","brother-in-law"],["la cuñada","sister-in-law"],["la nuera","daughter-in-law"],["el suegro","father-in-law"],["la suegra","mother-in-law"],["el yerno","son-in-law"],["el amigo; la amiga","friend"]],"vocabCategory":"Family & relationships","listeningText":"Me despierto a las siete, me ducho y me visto rápido. Después desayuno y salgo de casa a las ocho.","listeningQuestion":"What time does the speaker wake up?","listeningCorrect":"siete","listeningWrong":"No se menciona en el audio."},{"title":"Plans & obligation","passage":"Mañana voy a visitar a mi abuela. Antes tengo que terminar un informe y también debo llamar al dentista.","guidedQuestions":["Who will the speaker visit?","What must they finish first?","Who must they call?","Find one structure for a future plan."],"guidedAnswers":[["abuela"],["informe"],["dentista"],["voy a"]],"readingText":"Para entrar al curso hay que registrarse. Los estudiantes deben traer su documento de identidad.","readingQuestion":"What must everyone do to enter?","readingCorrect":"Register","readingWrong":"Bring a laptop","writingPrompt":"Write your plan for tomorrow using ir a, tener que, deber, and hay que.","speakingPrompt":"Explain your plans and obligations for the next two days.","vocab":[["el fontanero; la fontanera","plumber"],["el funcionario; la funcionaria","civil servant"],["el ingeniero; la ingeniera","engineer"],["el intelectual; la intelectual","intellectual"],["el jubilado; la jubilada","retiree"],["el juez; la jueza","judge"],["el maestro; la maestra","teacher"],["el obrero; la obrera","laborer"]],"vocabCategory":"Work & education","listeningText":"Mañana voy a visitar a mi abuela. Antes tengo que terminar un informe y también debo llamar al dentista.","listeningQuestion":"Who will the speaker visit?","listeningCorrect":"abuela","listeningWrong":"No se menciona en el audio."},{"title":"Pretérito perfecto","passage":"Esta semana he ido al gimnasio tres veces, he terminado un libro y he hablado con mi profesora.","guidedQuestions":["How many times has the speaker gone to the gym?","What has the speaker finished?","Who have they spoken with?","Which time marker connects the period to the present?"],"guidedAnswers":[["tres","3"],["libro"],["profesora"],["esta semana"]],"readingText":"Hoy hemos recibido tu solicitud y la hemos enviado al departamento correspondiente.","readingQuestion":"What happened to the application?","readingCorrect":"It was received and forwarded","readingWrong":"It was rejected","writingPrompt":"Write what you have done this week using at least four present-perfect forms.","speakingPrompt":"Talk about three things you have done today or this week.","vocab":[["el árbitro","referee"],["el bailarín; la bailarina","dancer"],["el compositor; la compositora","composer"],["el deportista; la deportista","sportsman, sportswoman"],["el entrenador; la entrenadora","coach"],["el equipo","team"],["el escultor; la escultora","sculptor"],["el espectador; la espectadora","spectator"]],"vocabCategory":"Media, arts, sports & leisure","listeningText":"Esta semana he ido al gimnasio tres veces, he terminado un libro y he hablado con mi profesora.","listeningQuestion":"How many times has the speaker gone to the gym?","listeningCorrect":"tres","listeningWrong":"No se menciona en el audio."},{"title":"Pretérito indefinido","passage":"Ayer fui al centro, compré un regalo y cené con Marta. Después volvimos a casa en metro.","guidedQuestions":["When did this happen?","What did the speaker buy?","Who did they have dinner with?","How did they return home?"],"guidedAnswers":[["ayer"],["regalo"],["marta"],["metro"]],"readingText":"El concierto empezó a las nueve y terminó cerca de medianoche.","readingQuestion":"What happened first?","readingCorrect":"The concert started at nine","readingWrong":"The concert ended at nine","writingPrompt":"Narrate what you did last Saturday using completed past actions.","speakingPrompt":"Tell a short story about yesterday with a clear beginning, middle, and end.","vocab":[["el cinturón de seguridad","safety belt"],["la escala","stopover, port of call"],["la fila","row of seats"],["el maletero","car trunk"],["el mostrador de facturación","check-in desk"],["la pista","airport runway"],["la puerta de embarque","boarding gate"],["el punto de encuentro","meeting point"]],"vocabCategory":"Travel & transport","listeningText":"Ayer fui al centro, compré un regalo y cené con Marta. Después volvimos a casa en metro.","listeningQuestion":"When did this happen?","listeningCorrect":"ayer","listeningWrong":"No se menciona en el audio."},{"title":"Imperfecto","passage":"Cuando era niña, vivía cerca del mar y jugaba en la playa cada tarde. Mi abuelo siempre preparaba la merienda.","guidedQuestions":["Where did the speaker live?","What did she do every afternoon?","Who prepared the snack?","Which phrase signals a repeated past habit?"],"guidedAnswers":[["mar"],["jugaba","playa"],["abuelo"],["cada tarde","siempre"]],"readingText":"Antes este barrio era muy tranquilo y había pocas tiendas.","readingQuestion":"What was the neighborhood like before?","readingCorrect":"Very quiet","readingWrong":"Very crowded","writingPrompt":"Describe your childhood using imperfect for habits and background.","speakingPrompt":"Talk about how your life was different five or ten years ago.","vocab":[["el colega; la colega","colleague"],["el compañero; la compañera","partner, companion"],["el desconocido; la desconocida","stranger"],["la pandilla","gang, group of friends"],["la pareja","couple/partner"],["el pariente; la pariente","relative, relation"],["el vecino; la vecina","neighbor"],["alto; alta","tall, high"]],"vocabCategory":"Family & relationships","listeningText":"Cuando era niña, vivía cerca del mar y jugaba en la playa cada tarde. Mi abuelo siempre preparaba la merienda.","listeningQuestion":"Where did the speaker live?","listeningCorrect":"mar","listeningWrong":"No se menciona en el audio."},{"title":"Choosing past tenses","passage":"Este año he viajado mucho. En marzo fui a Lisboa. Cuando estaba allí, hacía buen tiempo y caminaba todos los días.","guidedQuestions":["Which event happened in March?","What was the weather like?","What repeated action happened there?","Which tense is used with 'este año'?"],"guidedAnswers":[["fui","lisboa"],["buen tiempo"],["caminaba"],["perfecto","he viajado"]],"readingText":"Esta mañana he hablado con Ana. Ayer la llamé, pero no respondió porque estaba trabajando.","readingQuestion":"Why did Ana not answer yesterday?","readingCorrect":"She was working","readingWrong":"She was traveling","writingPrompt":"Write one paragraph combining perfecto, indefinido, and imperfecto.","speakingPrompt":"Tell a past experience and deliberately use all three major past tenses.","vocab":[["la sala de embarque","departure lounge"],["la sala de llegadas","arrivals area"],["la tarjeta de embarque","boarding pass"],["la terminal","terminal"],["el vagón","train car"],["la ventanilla","small window"],["el conserje; la conserje","concierge"],["el guía; la guía","guide"]],"vocabCategory":"Travel & transport","listeningText":"Este año he viajado mucho. En marzo fui a Lisboa. Cuando estaba allí, hacía buen tiempo y caminaba todos los días.","listeningQuestion":"Which event happened in March?","listeningCorrect":"fui","listeningWrong":"No se menciona en el audio."},{"title":"Past tense review + mock","passage":"El sábado pasado fuimos al campo. Hacía frío, pero no llovía. Hemos repetido la excursión dos veces este año porque nos encanta.","guidedQuestions":["When was the specific trip?","What was the weather like?","How many times have they repeated it this year?","Why have they repeated it?"],"guidedAnswers":[["sábado","sabado"],["frío","frio"],["dos","2"],["encanta"]],"readingText":"El año pasado abrimos el museo; desde enero hemos recibido más de diez mil visitantes.","readingQuestion":"What began last year?","readingCorrect":"The museum opened","readingWrong":"The museum closed","writingPrompt":"Write a short DELE-style anecdote mixing completed events and background.","speakingPrompt":"Tell a two-minute story about a memorable day in the past.","vocab":[["el futbolista; la futbolista","soccer player"],["el guitarrista; la guitarrista","guitarist"],["el jugador; la jugadora","player"],["el novelista; la novelista","novelist"],["el personaje","character, celebrity"],["el pianista; la pianista","pianist"],["el poeta; la poeta; la poetisa","poet"],["el protagonista; la protagonista","main character"]],"vocabCategory":"Media, arts, sports & leisure","listeningText":"El sábado pasado fuimos al campo. Hacía frío, pero no llovía. Hemos repetido la excursión dos veces este año porque nos encanta.","listeningQuestion":"When was the specific trip?","listeningCorrect":"sábado","listeningWrong":"No se menciona en el audio."},{"title":"Direct object pronouns","passage":"Tengo las entradas. Las compré ayer y voy a llevarlas al concierto. También tengo el mapa, pero no lo necesito.","guidedQuestions":["What does 'las' replace?","When were the tickets bought?","What does 'lo' replace?","Is the map needed?"],"guidedAnswers":[["entradas"],["ayer"],["mapa"],["no"]],"readingText":"¿Has visto mis llaves? Las dejé sobre la mesa, pero ahora no las encuentro.","readingQuestion":"What is missing?","readingCorrect":"The keys","readingWrong":"The table","writingPrompt":"Rewrite five sentences replacing direct objects with lo, la, los, or las.","speakingPrompt":"Explain what objects you need today, then refer back to them with object pronouns.","vocab":[["la oferta","bargain, special offer"],["el probador","fitting room"],["la rebaja","reduction, discount"],["la tienda","shop, store"],["la ropa","clothes, clothing"],["el complemento","accessory, complement"],["el tique de compra; el tique; el tíquet de compra; el tíquet","receipt"],["el vendedor; la vendedora","sales person"]],"vocabCategory":"Shopping, clothing & money","listeningText":"Tengo las entradas. Las compré ayer y voy a llevarlas al concierto. También tengo el mapa, pero no lo necesito.","listeningQuestion":"What does 'las' replace?","listeningCorrect":"entradas","listeningWrong":"No se menciona en el audio."},{"title":"Indirect + double pronouns","passage":"Le di el informe a Marta y después se lo envié también por correo. A mis padres les compré un regalo.","guidedQuestions":["Who received the report?","What does 'se lo' refer to?","Who received a gift?","Which indirect pronoun refers to 'mis padres'?"],"guidedAnswers":[["marta"],["informe"],["padres"],["les"]],"readingText":"El camarero nos trajo la cuenta y se la pagamos con tarjeta.","readingQuestion":"What did the waiter bring?","readingCorrect":"The bill","readingWrong":"The menu","writingPrompt":"Transform sentences using le/les and se lo/se la.","speakingPrompt":"Describe giving or sending three things to different people using indirect pronouns.","vocab":[["la zona residencial","residential area"],["los aseos públicos","public toilets"],["el buzón de correos","mailbox"],["la comisaría de policía; la comisaría; la estación de policía","police station"],["la gasolinera","gas station"],["el parque","fleet of vehicles"],["el bombero; la bombera","firefighter"],["el parque de bomberos","fire station"]],"vocabCategory":"City & public services","listeningText":"Le di el informe a Marta y después se lo envié también por correo. A mis padres les compré un regalo.","listeningQuestion":"Who received the report?","listeningCorrect":"marta","listeningWrong":"No se menciona en el audio."},{"title":"Prepositions","passage":"Trabajo para una empresa pequeña y viajo por España dos veces al mes. Mañana voy a Madrid para una reunión.","guidedQuestions":["Who does the person work for?","Where do they travel?","Why are they going to Madrid?","Which preposition expresses purpose?"],"guidedAnswers":[["empresa"],["españa","espana"],["reunión","reunion"],["para"]],"readingText":"Gracias por tu ayuda. Este paquete es para Laura y viene de Barcelona.","readingQuestion":"Who is the package for?","readingCorrect":"Laura","readingWrong":"Barcelona","writingPrompt":"Write six sentences using a, de, en, con, por, and para.","speakingPrompt":"Explain a trip: where you go, who you go with, why, and what you do there.","vocab":[["el recepcionista; la recepcionista","receptionist"],["el viajero; la viajera","traveller"],["el alojamiento","accommodation, lodging"],["el alojamiento y desayuno","bed and breakfast"],["la casa rural","holiday cottage, vacation home"],["el hostal","hostel"],["las instalaciones para discapacitados","facilities for disabled people"],["la pensión","guest house"]],"vocabCategory":"Travel & transport","listeningText":"Trabajo para una empresa pequeña y viajo por España dos veces al mes. Mañana voy a Madrid para una reunión.","listeningQuestion":"Who does the person work for?","listeningCorrect":"empresa","listeningWrong":"No se menciona en el audio."},{"title":"Comparisons & photo language","passage":"En la foto, la plaza está más llena que el parque. A la derecha hay un edificio más alto y, al fondo, unas montañas.","guidedQuestions":["Which place is more crowded?","Where is the taller building?","What is in the background?","Find one comparative expression."],"guidedAnswers":[["plaza"],["derecha"],["montañas","montanas"],["más llena","mas llena","más alto","mas alto"]],"readingText":"El modelo A es más barato que el B, pero el B es el más rápido de los tres.","readingQuestion":"Which model is fastest?","readingCorrect":"Model B","readingWrong":"Model A","writingPrompt":"Compare two cities, products, or people using comparatives and a superlative.","speakingPrompt":"Describe an imagined photo from foreground to background and make two comparisons.","vocab":[["el andén","train platform"],["el asiento","seat"],["el atasco","traffic jam"],["la autopista; la carretera","highway"],["la boca de metro","subway entrance"],["el camión","truck"],["el carril bus","bus lane"],["el carril bici","bike lane"]],"vocabCategory":"City & public services","listeningText":"En la foto, la plaza está más llena que el parque. A la derecha hay un edificio más alto y, al fondo, unas montañas.","listeningQuestion":"Which place is more crowded?","listeningCorrect":"plaza","listeningWrong":"No se menciona en el audio."},{"title":"Gerunds","passage":"Ahora estoy esperando el autobús y estoy leyendo las noticias. Mi amiga sigue trabajando, así que llegará más tarde.","guidedQuestions":["What is the speaker waiting for?","What are they reading?","What is the friend still doing?","Which structure means 'keeps/still doing'?"],"guidedAnswers":[["autobús","autobus"],["noticias"],["trabajando"],["sigue"]],"readingText":"Estamos reparando el ascensor. Mientras tanto, pueden usar las escaleras.","readingQuestion":"What is currently being repaired?","readingCorrect":"The elevator","readingWrong":"The stairs","writingPrompt":"Describe what five people are doing right now using estar + gerundio.","speakingPrompt":"Imagine a busy café and describe what everyone is doing.","vocab":[["el público; la audiencia; el auditorio","audience, crowd"],["el violinista; la violinista","violinist"],["el campo de fútbol","football field"],["el estadio","stadium"],["la galería","gallery"],["el parque de atracciones","amusement park"],["la pista de tenis; la cancha de tenis","tennis court"],["el polideportivo","sports center"]],"vocabCategory":"Media, arts, sports & leisure","listeningText":"Ahora estoy esperando el autobús y estoy leyendo las noticias. Mi amiga sigue trabajando, así que llegará más tarde.","listeningQuestion":"What is the speaker waiting for?","listeningCorrect":"autobús","listeningWrong":"No se menciona en el audio."},{"title":"Commands & polite requests","passage":"Por favor, cierre la puerta, espere aquí y no use el teléfono. Si necesita ayuda, dígamelo.","guidedQuestions":["What should the listener close?","Where should they wait?","What should they not use?","Which command means 'tell me'?"],"guidedAnswers":[["puerta"],["aquí","aqui"],["teléfono","telefono"],["dígamelo","digamelo"]],"readingText":"Para continuar, pulse el botón verde y no apague el dispositivo.","readingQuestion":"Which button should be pressed?","readingCorrect":"The green button","readingWrong":"The red button","writingPrompt":"Write instructions for a visitor using affirmative and negative commands.","speakingPrompt":"Give polite directions to someone using at least five commands.","vocab":[["la circulación","traffic"],["el embotellamiento","traffic jam"],["la inseguridad ciudadana","lack of safety in the streets"],["el paso de cebra","crosswalk"],["el peatón; la peatona","pedestrian"],["el paso de peatones","crosswalk"],["el ciudadano; la ciudadana","citizen"],["la guardia de tráfico","traffic officer"]],"vocabCategory":"City & public services","listeningText":"Por favor, cierre la puerta, espere aquí y no use el teléfono. Si necesita ayuda, dígamelo.","listeningQuestion":"What should the listener close?","listeningCorrect":"puerta","listeningWrong":"No se menciona en el audio."},{"title":"Interaction review + mock","passage":"Necesito cambiar mi reserva porque no puedo viajar el viernes. ¿Podría moverla al domingo por la tarde?","guidedQuestions":["What needs to be changed?","Why can the person not keep Friday?","Which new day is requested?","Is the request direct or polite?"],"guidedAnswers":[["reserva"],["no puedo viajar"],["domingo"],["polite","cortés","cortes"]],"readingText":"Cliente: Quisiera devolver esta camisa. Dependiente: Claro, ¿tiene el recibo?","readingQuestion":"What does the customer want to do?","readingCorrect":"Return a shirt","readingWrong":"Buy a shirt","writingPrompt":"Write a polite service interaction: request, problem, solution, thanks.","speakingPrompt":"Role-play asking a hotel receptionist to solve a reservation problem.","vocab":[["la zapatería","shoe store"],["a la moda","fashionable"],["pasado de moda; pasada de moda","out of fashion, old-fashioned"],["clásico; clásica","classical, vintage, traditional"],["moderno; moderna","modern"],["actual","current, present"],["deportivo; deportiva","casual, sportswear style"],["elegante","elegant"]],"vocabCategory":"Shopping, clothing & money","listeningText":"Necesito cambiar mi reserva porque no puedo viajar el viernes. ¿Podría moverla al domingo por la tarde?","listeningQuestion":"What needs to be changed?","listeningCorrect":"reserva","listeningWrong":"No se menciona en el audio."},{"title":"Subjunctive from zero","passage":"Quiero que vengas a la cena. Es importante que llegues antes de las ocho y me alegra que puedas venir.","guidedQuestions":["What does the speaker want?","When should the person arrive?","Find one emotion trigger.","Give one subjunctive verb form from the text."],"guidedAnswers":[["vengas","venir"],["antes","ocho","8"],["me alegra"],["vengas","llegues","puedas"]],"readingText":"Recomendamos que reserve con antelación porque las plazas son limitadas.","readingQuestion":"What is recommended?","readingCorrect":"Reserve in advance","readingWrong":"Arrive without a reservation","writingPrompt":"Write five wishes/recommendations using que + subjunctive.","speakingPrompt":"Give advice to a friend using quiero que, recomiendo que, and es importante que.","vocab":[["el cirujano; la cirujana","surgeon"],["el enfermero; la enfermera","nurse"],["el ginecólogo; la ginecóloga","gynecologist"],["el médico de familia; la médica de familia","family physician"],["el pediatra; la pediatra","pediatrician"],["el traumatólogo","traumatologist"],["el centro de salud","health center"],["la consulta","doctor's office"]],"vocabCategory":"Health","listeningText":"Quiero que vengas a la cena. Es importante que llegues antes de las ocho y me alegra que puedas venir.","listeningQuestion":"What does the speaker want?","listeningCorrect":"vengas","listeningWrong":"No se menciona en el audio."},{"title":"Subjunctive in context","passage":"Cuando termines el trabajo, llámame. Busco un restaurante que tenga terraza y no creo que sea muy caro.","guidedQuestions":["When should the listener call?","What kind of restaurant is wanted?","What feature should it have?","Which phrase expresses doubt/negation of belief?"],"guidedAnswers":[["termines"],["restaurante"],["terraza"],["no creo"]],"readingText":"Para que todos puedan participar, enviaremos el enlace antes de la reunión.","readingQuestion":"Why will the link be sent early?","readingCorrect":"So everyone can participate","readingWrong":"So nobody attends","writingPrompt":"Write sentences with cuando + future reference, para que, and no creo que.","speakingPrompt":"Explain plans that depend on future conditions using the subjunctive.","vocab":[["el clima húmedo","humid climate"],["el clima seco","dry climate"],["despejado","clear weather"],["lluvioso","rainy"],["nublado","cloudy"],["soleado","sunny"],["el granizo","hail"],["el huracán","hurricane"]],"vocabCategory":"Weather & environment","listeningText":"Cuando termines el trabajo, llámame. Busco un restaurante que tenga terraza y no creo que sea muy caro.","listeningQuestion":"When should the listener call?","listeningCorrect":"termines","listeningWrong":"No se menciona en el audio."},{"title":"Future & conditional","passage":"El próximo año estudiaré un máster y probablemente viviré en otra ciudad. Si tuviera más tiempo, viajaría más.","guidedQuestions":["What will the speaker study?","Where might they live?","What would they do with more time?","Which form expresses a hypothetical result?"],"guidedAnswers":[["máster","master"],["otra ciudad"],["viajaría","viajaria"],["viajaría","viajaria"]],"readingText":"Mañana habrá viento y las temperaturas bajarán por la noche.","readingQuestion":"What will happen at night?","readingCorrect":"Temperatures will fall","readingWrong":"Temperatures will rise","writingPrompt":"Write predictions and hypothetical plans using future and conditional.","speakingPrompt":"Talk about where you think you will be in five years and what you would do with a free year.","vocab":[["la pensión media; la media pensión","half board"],["la pensión completa","full board"],["el servicio de habitaciones","room service"],["la tienda de campaña","tent"],["el billete de ida y vuelta","round-trip ticket"],["la bolsa de aseo","toiletry bag"],["la bolsa de viaje","travel bag"],["la bolsa de mano","overnight bag"]],"vocabCategory":"Travel & transport","listeningText":"El próximo año estudiaré un máster y probablemente viviré en otra ciudad. Si tuviera más tiempo, viajaría más.","listeningQuestion":"What will the speaker study?","listeningCorrect":"máster","listeningWrong":"No se menciona en el audio."},{"title":"Relative clauses + pronunciation","passage":"La mujer que vive arriba es la profesora con quien hablé ayer. El café donde quedamos está cerca de aquí.","guidedQuestions":["Who lives upstairs?","Who did the speaker talk to?","What place is described with 'donde'?","Find the relative pronoun referring to a person after a preposition."],"guidedAnswers":[["profesora"],["profesora"],["café","cafe"],["quien"]],"readingText":"Buscamos a alguien que tenga experiencia y que pueda trabajar los sábados.","readingQuestion":"What kind of person is wanted?","readingCorrect":"Someone with experience","readingWrong":"Someone with no experience","writingPrompt":"Combine pairs of sentences using que, donde, quien, and lo que.","speakingPrompt":"Describe people and places important to you using relative clauses.","vocab":[["el espectáculo","show, performance"],["el ballet","ballet"],["la comedia","comedy"],["el drama","drama"],["el escenario","stage"],["la obra de teatro","stage play"],["el partido","sports match"],["la película romántica","romantic movie"]],"vocabCategory":"Media, arts, sports & leisure","listeningText":"La mujer que vive arriba es la profesora con quien hablé ayer. El café donde quedamos está cerca de aquí.","listeningQuestion":"Who lives upstairs?","listeningCorrect":"profesora","listeningWrong":"No se menciona en el audio."},{"title":"Writing for DELE","passage":"Primero explica el motivo de tu mensaje. Después desarrolla dos ideas con ejemplos y, por último, cierra de forma adecuada.","guidedQuestions":["What should come first?","How many developed ideas are suggested?","What should come last?","Find one sequencing connector."],"guidedAnswers":[["motivo"],["dos","2"],["cierre","cerrar"],["primero","después","despues","por último","por ultimo"]],"readingText":"Se valorarán la claridad, la organización, el vocabulario y la corrección lingüística.","readingQuestion":"Which quality is explicitly assessed?","readingCorrect":"Organization","readingWrong":"Handwriting color","writingPrompt":"Write a full 100–120 word DELE email responding to a friend who asks for advice.","speakingPrompt":"Plan a DELE writing response aloud: opening, two main points, example, closing.","vocab":[["la correspondencia escrita; la correspondencia","written correspondence, mail"],["el apartado de correos; apartado postal","post office box"],["el destinatario","addressee, payee"],["mandar por correo; enviar por correo","to send by mail"],["la posdata","postscript"],["el remitente","sender"],["el antivirus","antivirus"],["la conexión a Internet","Internet connection"]],"vocabCategory":"Communication & technology","listeningText":"Primero explica el motivo de tu mensaje. Después desarrolla dos ideas con ejemplos y, por último, cierra de forma adecuada.","listeningQuestion":"What should come first?","listeningCorrect":"motivo","listeningWrong":"No se menciona en el audio."},{"title":"Listening for DELE","passage":"En la primera escucha, identifica la situación y la idea principal. En la segunda, confirma detalles como horas, fechas y cambios.","guidedQuestions":["What is the goal of the first listen?","What should be confirmed on the second?","Name one detail type mentioned.","Should you try to understand every word first?"],"guidedAnswers":[["idea principal","situación","situacion"],["detalles"],["horas","fechas","cambios"],["no"]],"readingText":"Atención: la puerta de embarque ha cambiado de la B12 a la C4.","readingQuestion":"What changed?","readingCorrect":"The boarding gate","readingWrong":"The flight date","writingPrompt":"After listening to a short announcement, write the main idea and three key details.","speakingPrompt":"Explain your listening strategy for a DELE task and how you recover when you miss a word.","vocab":[["el Documento Nacional de Identidad","national identification card"],["el equipaje","luggage"],["el exceso de equipaje","excess baggage"],["el mapa de carreteras","highway map"],["el paisaje","landscape, scenery"],["el plano turístico","tourist map"],["la reserva; la reservación","reservation"],["el saco de dormir","sleeping bag"]],"vocabCategory":"Travel & transport","listeningText":"En la primera escucha, identifica la situación y la idea principal. En la segunda, confirma detalles como horas, fechas y cambios.","listeningQuestion":"What is the goal of the first listen?","listeningCorrect":"idea principal","listeningWrong":"No se menciona en el audio."},{"title":"Full grammar review + mock","passage":"Aunque ayer estaba cansada, terminé el informe porque hoy tengo una reunión que es muy importante.","guidedQuestions":["How did the speaker feel yesterday?","What did they finish?","Why did they finish it?","Find one connector expressing contrast."],"guidedAnswers":[["cansada"],["informe"],["reunión","reunion"],["aunque"]],"readingText":"Si necesita cambiar la cita, llame antes de las cinco para que podamos ofrecerle otra hora.","readingQuestion":"Why should the person call before five?","readingCorrect":"So another time can be offered","readingWrong":"So the office can close","writingPrompt":"Write a mixed-grammar response using present, past, future, pronouns, and connectors.","speakingPrompt":"Complete a two-minute mixed grammar challenge about your past, present, and future.","vocab":[["la contraseña","password"],["el navegador","Internet browser"],["el nombre de usuario","username"],["la agencia de prensa","news agency"],["el anuncio","advertisement, announcement"],["el artículo","news article"],["la cartelera","billboard"],["el editorial","editorial"]],"vocabCategory":"Communication & technology","listeningText":"Aunque ayer estaba cansada, terminé el informe porque hoy tengo una reunión que es muy importante.","listeningQuestion":"How did the speaker feel yesterday?","listeningCorrect":"cansada","listeningWrong":"No se menciona en el audio."},{"title":"Adaptive weakness repair","passage":"Hoy vas a trabajar en tus errores más frecuentes. Elige una regla, crea un ejemplo, compruébalo y vuelve a usarla sin mirar.","guidedQuestions":["What should you choose first?","What comes after creating an example?","Should you immediately move on after one attempt?","What is the goal of the final step?"],"guidedAnswers":[["regla","error"],["compruébalo","comprobar","check"],["no"],["usar","sin mirar"]],"readingText":"Repite solo las preguntas que fallaste y explica en voz alta por qué la respuesta correcta funciona.","readingQuestion":"Which questions should you repeat?","readingCorrect":"The ones you got wrong","readingWrong":"Only the easiest ones","writingPrompt":"Write corrections for three mistakes from your own mistake log and explain each rule.","speakingPrompt":"Teach your weakest grammar point aloud as if you were the teacher.","vocab":[["el parado; la parada","unemployed person"],["el peluquero; la peluquera","hairdresser, barber"],["el periodista; la periodista","journalist"],["el sustituto; la sustituta","substitute"],["el traductor; la traductora","translator"],["el ascenso","promotion at work"],["el aumento; el aumento salarial; el aumento de sueldo","pay raise"],["el contrato","contract"]],"vocabCategory":"Work & education","listeningText":"Hoy vas a trabajar en tus errores más frecuentes. Elige una regla, crea un ejemplo, compruébalo y vuelve a usarla sin mirar.","listeningQuestion":"What should you choose first?","listeningCorrect":"regla","listeningWrong":"No se menciona en el audio."},{"title":"Full timed mock + final review","passage":"Has llegado al final del plan. Durante el simulacro, controla el tiempo, responde primero lo que sabes y vuelve después a las preguntas difíciles.","guidedQuestions":["What should you control?","What should you answer first?","When should you return to difficult questions?","What is today's main purpose?"],"guidedAnswers":[["tiempo"],["lo que sabes","fáciles","faciles"],["después","despues"],["simulacro","mock","review"]],"readingText":"Último aviso: comprueba que has respondido a todas las preguntas antes de entregar el examen.","readingQuestion":"What must you check before submitting?","readingCorrect":"That every question has an answer","readingWrong":"That every answer is long","writingPrompt":"Complete a final DELE writing task under time pressure and then self-edit it.","speakingPrompt":"Give a final two-minute speaking response: experience, opinion, reason, example, conclusion.","vocab":[["la selva; la jungla","jungle"],["el visado; la visa","visa"],["la vista panorámica","panoramic view"],["aburrirse","to get bored"],["anular","to cancel"],["cancelar","to cancel"],["aterrizar","to land"],["despegar","to take off"]],"vocabCategory":"Travel & transport","listeningText":"Has llegado al final del plan. Durante el simulacro, controla el tiempo, responde primero lo que sabes y vuelve después a las preguntas difíciles.","listeningQuestion":"What should you control?","listeningCorrect":"tiempo","listeningWrong":"No se menciona en el audio."}];
+const uniqueQuizData={"1":[["¿Cómo se llama la persona?",["ana","Ninguna de las anteriores","No se menciona"],0],["¿De dónde es Ana?",["granada","No se menciona","Otra opción"],0],["Today’s focus is: Identity & ser. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"2":[["Name one feminine singular noun with its article.",["la biblioteca","Ninguna de las anteriores","No se menciona"],0],["Name one masculine singular noun with its article.",["el mercado","No se menciona","Otra opción"],0],["Today’s focus is: Gender, articles & hay. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"3":[["What date is the party?",["14","Ninguna de las anteriores","No se menciona"],0],["What time does it start?",["ocho","No se menciona","Otra opción"],0],["Today’s focus is: Numbers, dates & questions. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"4":[["Where does Carlos work?",["tienda","Ninguna de las anteriores","No se menciona"],0],["Where does he live?",["centro","No se menciona","Otra opción"],0],["Today’s focus is: Regular present tense. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"5":[["What does the speaker have today?",["trabajo","Ninguna de las anteriores","No se menciona"],0],["Where do they want to go?",["gimnasio","No se menciona","Otra opción"],0],["Today’s focus is: Essential irregular verbs. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"6":[["What is the first café like?",["moderna","Ninguna de las anteriores","No se menciona"],0],["Where is it?",["plaza","No se menciona","Otra opción"],0],["Today’s focus is: Ser vs estar vs hay. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"7":[["Where is Julia from?",["méxico","Ninguna de las anteriores","No se menciona"],0],["Where does she live?",["bilbao","No se menciona","Otra opción"],0],["Today’s focus is: Foundation review + mock. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"8":[["What time does the speaker wake up?",["siete","Ninguna de las anteriores","No se menciona"],0],["What do they do after waking up?",["ducho","No se menciona","Otra opción"],0],["Today’s focus is: Reflexives & routines. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"9":[["Who will the speaker visit?",["abuela","Ninguna de las anteriores","No se menciona"],0],["What must they finish first?",["informe","No se menciona","Otra opción"],0],["Today’s focus is: Plans & obligation. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"10":[["How many times has the speaker gone to the gym?",["tres","Ninguna de las anteriores","No se menciona"],0],["What has the speaker finished?",["libro","No se menciona","Otra opción"],0],["Today’s focus is: Pretérito perfecto. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"11":[["When did this happen?",["ayer","Ninguna de las anteriores","No se menciona"],0],["What did the speaker buy?",["regalo","No se menciona","Otra opción"],0],["Today’s focus is: Pretérito indefinido. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"12":[["Where did the speaker live?",["mar","Ninguna de las anteriores","No se menciona"],0],["What did she do every afternoon?",["jugaba","No se menciona","Otra opción"],0],["Today’s focus is: Imperfecto. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"13":[["Which event happened in March?",["fui","Ninguna de las anteriores","No se menciona"],0],["What was the weather like?",["buen tiempo","No se menciona","Otra opción"],0],["Today’s focus is: Choosing past tenses. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"14":[["When was the specific trip?",["sábado","Ninguna de las anteriores","No se menciona"],0],["What was the weather like?",["frío","No se menciona","Otra opción"],0],["Today’s focus is: Past tense review + mock. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"15":[["What does 'las' replace?",["entradas","Ninguna de las anteriores","No se menciona"],0],["When were the tickets bought?",["ayer","No se menciona","Otra opción"],0],["Today’s focus is: Direct object pronouns. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"16":[["Who received the report?",["marta","Ninguna de las anteriores","No se menciona"],0],["What does 'se lo' refer to?",["informe","No se menciona","Otra opción"],0],["Today’s focus is: Indirect + double pronouns. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"17":[["Who does the person work for?",["empresa","Ninguna de las anteriores","No se menciona"],0],["Where do they travel?",["españa","No se menciona","Otra opción"],0],["Today’s focus is: Prepositions. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"18":[["Which place is more crowded?",["plaza","Ninguna de las anteriores","No se menciona"],0],["Where is the taller building?",["derecha","No se menciona","Otra opción"],0],["Today’s focus is: Comparisons & photo language. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"19":[["What is the speaker waiting for?",["autobús","Ninguna de las anteriores","No se menciona"],0],["What are they reading?",["noticias","No se menciona","Otra opción"],0],["Today’s focus is: Gerunds. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"20":[["What should the listener close?",["puerta","Ninguna de las anteriores","No se menciona"],0],["Where should they wait?",["aquí","No se menciona","Otra opción"],0],["Today’s focus is: Commands & polite requests. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"21":[["What needs to be changed?",["reserva","Ninguna de las anteriores","No se menciona"],0],["Why can the person not keep Friday?",["no puedo viajar","No se menciona","Otra opción"],0],["Today’s focus is: Interaction review + mock. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"22":[["What does the speaker want?",["vengas","Ninguna de las anteriores","No se menciona"],0],["When should the person arrive?",["antes","No se menciona","Otra opción"],0],["Today’s focus is: Subjunctive from zero. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"23":[["When should the listener call?",["termines","Ninguna de las anteriores","No se menciona"],0],["What kind of restaurant is wanted?",["restaurante","No se menciona","Otra opción"],0],["Today’s focus is: Subjunctive in context. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"24":[["What will the speaker study?",["máster","Ninguna de las anteriores","No se menciona"],0],["Where might they live?",["otra ciudad","No se menciona","Otra opción"],0],["Today’s focus is: Future & conditional. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"25":[["Who lives upstairs?",["profesora","Ninguna de las anteriores","No se menciona"],0],["Who did the speaker talk to?",["profesora","No se menciona","Otra opción"],0],["Today’s focus is: Relative clauses + pronunciation. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"26":[["What should come first?",["motivo","Ninguna de las anteriores","No se menciona"],0],["How many developed ideas are suggested?",["dos","No se menciona","Otra opción"],0],["Today’s focus is: Writing for DELE. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"27":[["What is the goal of the first listen?",["idea principal","Ninguna de las anteriores","No se menciona"],0],["What should be confirmed on the second?",["detalles","No se menciona","Otra opción"],0],["Today’s focus is: Listening for DELE. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"28":[["How did the speaker feel yesterday?",["cansada","Ninguna de las anteriores","No se menciona"],0],["What did they finish?",["informe","No se menciona","Otra opción"],0],["Today’s focus is: Full grammar review + mock. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"29":[["What should you choose first?",["regla","Ninguna de las anteriores","No se menciona"],0],["What comes after creating an example?",["compruébalo","No se menciona","Otra opción"],0],["Today’s focus is: Adaptive weakness repair. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]],"30":[["What should you control?",["tiempo","Ninguna de las anteriores","No se menciona"],0],["What should you answer first?",["lo que sabes","No se menciona","Otra opción"],0],["Today’s focus is: Full timed mock + final review. What should you prioritize?",["Meaning + the grammar/function of today’s topic","Choosing the longest answer","Translating every sentence word-for-word"],0]]};
 const grammarNotes={
 1:{rules:['Spanish has five stable vowels: a, e, i, o, u.','Subject pronouns are often omitted because the verb ending shows the subject.','Use tú for informal singular and usted for formal singular.','Ser identifies and classifies: Soy estudiante.','Questions use ¿ ? and exclamations use ¡ !.'],table:[['yo','soy'],['tú','eres'],['él/ella/usted','es'],['nosotros/as','somos'],['ellos/ellas/ustedes','son']],mistake:'Do not translate “I am” word-for-word in every context. Ser is mainly identity/classification; estar arrives on Day 6.'},
 2:{rules:['Most nouns ending -o are masculine and -a feminine, but there are exceptions.','Use el/la for “the” and un/una for “a/an”.','Plural: vowel + s; consonant + es.','Adjectives usually agree in gender and number.','Hay means “there is/there are” and does not change for plural.'],table:[['el libro','los libros'],['la casa','las casas'],['un chico simpático','una chica simpática']],mistake:'Use hay una mesa, not “hay está una mesa.”'},
@@ -113,6 +115,50 @@ vecino:'neighbor',vecina:'neighbor',detallista:'thoughtful / detail-oriented',t�
 };
 
 function save(){localStorage.setItem(KEY,JSON.stringify(state))}
+function repairHistoryBuckets(){
+  state.writingHistory=Array.isArray(state.writingHistory)?state.writingHistory:[];
+  state.speakingHistory=Array.isArray(state.speakingHistory)?state.speakingHistory:[];
+
+  const writing=[];
+  const speaking=[];
+
+  [...state.writingHistory,...state.speakingHistory].forEach(item=>{
+    if(!item||typeof item!=='object')return;
+
+    const isWriting =
+      item.type==='writing' ||
+      Object.prototype.hasOwnProperty.call(item,'answer');
+
+    const isSpeaking =
+      item.type==='speaking' ||
+      Object.prototype.hasOwnProperty.call(item,'transcript');
+
+    if(isWriting && !isSpeaking){
+      writing.push({...item,type:'writing'});
+    }else if(isSpeaking && !isWriting){
+      speaking.push({...item,type:'speaking'});
+    }else if(item.answer && !item.transcript){
+      writing.push({...item,type:'writing'});
+    }else if(item.transcript){
+      speaking.push({...item,type:'speaking'});
+    }
+  });
+
+  const dedupe = arr => {
+    const seen=new Set();
+    return arr.filter(x=>{
+      const key=String(x.id||'')+'|'+String(x.day||'')+'|'+String(x.answer||x.transcript||'');
+      if(seen.has(key))return false;
+      seen.add(key);
+      return true;
+    });
+  };
+
+  state.writingHistory=dedupe(writing);
+  state.speakingHistory=dedupe(speaking);
+}
+repairHistoryBuckets();
+
 function clamp(n,a,b){return Math.max(a,Math.min(b,n))}
 function pct(n,d){return d?Math.round(n/d*100):0}
 function switchProgram(p){state.program=p;state.page='home';save();document.getElementById('switchMenu').classList.remove('open');render()}
@@ -278,22 +324,9 @@ function quizHTML(d){
  return `<p>Target: <strong>80%+</strong>. Wrong answers are added automatically to your mistake tracker.</p><div id="quiz-${d}">${qs.map((q,i)=>`<div class="quizQ"><strong>${i+1}. ${q.q}</strong>${q.o.map((o,j)=>`<button type="button" class="option" onclick="event.preventDefault();event.stopPropagation();answerQuiz(this,${j},${q.a},'${q.skill}','${q.concept||''}',${d});return false;">${o}</button>`).join('')}</div>`).join('')}</div><div id="quizScore-${d}" class="sub"></div>`;
 }
 function makeQuiz(d){
- const base={
-1:[['Choose the correct identity sentence.',['Soy estudiante.','Estoy estudiante.','Hay estudiante.'],0],['“You are” (informal) with ser is…',['eres','es','soy'],0],['Formal singular “you” is…',['usted','tú','vosotros'],0]],
-6:[['Choose: “There is a bank nearby.”',['Está un banco cerca.','Hay un banco cerca.','Es un banco cerca.'],1,'ser vs estar'],['Choose: “The bank is on this street.”',['El banco está en esta calle.','Hay el banco en esta calle.','El banco hay aquí.'],0,'ser vs estar'],['For profession, use…',['ser','estar','hay'],0,'ser vs estar']],
-13:[['“Yesterday I worked a lot.”',['Ayer he trabajado mucho.','Ayer trabajé mucho.','Ayer trabajaba mucho.'],1,'past tense choice'],['“When I was little, I played…”',['De pequeña jugué cada día.','De pequeña jugaba…','De pequeña he jugado…'],1,'past tense choice'],['“This week I have studied…”',['Esta semana he estudiado…','Esta semana estudié…','Esta semana estudiaba…'],0,'past tense choice']],
-17:[['Purpose: “I study ___ learn.”',['por','para','de'],1,'por vs para'],['Cause: “I did it ___ you.”',['por','para','en'],0,'por vs para'],['Destination: “Voy ___ Madrid.”',['a','de','por'],0,'prepositions']],
-22:[['Quiero que tú ___ más.',['estudias','estudies','estudiar'],1,'subjunctive'],['Me alegra que ___ aquí.',['estás','estés','estar'],1,'subjunctive'],['Recomiendo que ___ temprano.',['llegas','llegues','llegar'],1,'subjunctive']],
-23:[['Cuando ___ mañana, te llamo.',['llego','llegue','llegaré'],1,'subjunctive'],['Busco un piso que ___ terraza.',['tiene','tenga','tener'],1,'subjunctive'],['No creo que ___ verdad.',['es','sea','será'],1,'subjunctive']]
- };
- let arr=base[d]||[
- [`Pick the best form for today’s topic: ${days[d-1][0]}.`,['A form that matches the subject and meaning','An unchanged infinitive in every sentence','An English word order copied literally'],0],
- ['What is the best exam habit?',['Answer from meaning and context','Choose the longest option','Pick the option repeating audio words'],0],
- ['What should you do after an error?',['Record the concept and retest it','Ignore it','Only reread the correct option'],0]
- ];
- return arr.map(x=>({q:x[0],o:x[1],a:x[2],skill:'Grammar',concept:x[3]||days[d-1][0]}));
+ const arr=uniqueQuizData[d]||uniqueQuizData[1];
+ return arr.map(x=>({q:x[0],o:x[1],a:x[2],skill:'Grammar',concept:days[d-1][0]}));
 }
-let quizRuntime={};
 function answerQuiz(btn,chosen,ans,skill,concept,d){
  const q=btn.parentElement;
  if(q.dataset.done)return;
@@ -322,65 +355,26 @@ function deleSpecific(d){
  return `<p>Today’s grammar is not isolated study. It supports <strong>${mapping}</strong>.</p><ul><li>Under exam pressure, first identify the communicative purpose: inform, request, complain, narrate, describe, recommend or compare.</li><li>Then use grammar as evidence for meaning, especially time reference, negation, pronouns and connectors.</li><li>For productive tasks, task fulfillment and coherence matter alongside correction and range.</li></ul>`;
 }
 function guided(d){
- const passage=`Lucía vive en Valencia y trabaja en una biblioteca. Esta semana ha empezado un curso de fotografía porque quiere aprender algo nuevo. Ayer fue a su primera clase y conoció a tres compañeros. Antes no tenía mucho tiempo libre, pero ahora intenta organizarse mejor.`;
+ const data=dayPracticeData[d-1];
  const saved=state.guidedAnswers[d]||{};
-
  return `<div class="guidedPractice">
-   <p><strong>Step 1 · Translation.</strong> Translate the entire Spanish passage into English.</p>
-
-   <blockquote>${passage}</blockquote>
-
+   <p><strong>Step 1 · Translation.</strong> Translate today's Spanish passage into English.</p>
+   <blockquote>${escapeHTML(data.passage)}</blockquote>
    <textarea id="guidedTranslation-${d}" placeholder="Write your English translation here..." oninput="saveGuidedField(${d},'translation',this.value)">${escapeHTML(saved.translation||'')}</textarea>
-
-   <div class="btnrow">
-     <button type="button" class="btn" onclick="checkGuidedTranslation(${d})">Check translation</button>
-   </div>
-
-   <div id="guidedTranslationFeedback-${d}" class="guidedFeedback">
-     ${saved.translationFeedback?formatFeedback(saved.translationFeedback):'<span class="sub">Your translation feedback will appear here.</span>'}
-   </div>
-
+   <div class="btnrow"><button type="button" class="btn" onclick="checkGuidedTranslation(${d})">Check translation</button></div>
+   <div id="guidedTranslationFeedback-${d}" class="guidedFeedback">${saved.translationFeedback?formatFeedback(saved.translationFeedback):'<span class="sub">Your translation feedback will appear here.</span>'}</div>
    <div class="guidedDivider"></div>
-
-   <p><strong>Step 2 · Guided reading.</strong> Read the text again and answer each question separately.</p>
-
-   <div class="guidedQuestion">
-     <label>1. Identify one present-tense verb form from the text.</label>
-     <input id="guidedPresent-${d}" type="text" placeholder="Type the Spanish verb form" value="${escapeHTML(saved.present||'')}" oninput="saveGuidedField(${d},'present',this.value)">
-     <div id="guidedPresentFeedback-${d}" class="answerFeedback"></div>
-   </div>
-
-   <div class="guidedQuestion">
-     <label>2. Identify one past-tense verb form from the text.</label>
-     <input id="guidedPast-${d}" type="text" placeholder="Type the Spanish verb form" value="${escapeHTML(saved.past||'')}" oninput="saveGuidedField(${d},'past',this.value)">
-     <div id="guidedPastFeedback-${d}" class="answerFeedback"></div>
-   </div>
-
-   <div class="guidedQuestion">
-     <label>3. Identify one connector from the text.</label>
-     <input id="guidedConnector-${d}" type="text" placeholder="Type the connector" value="${escapeHTML(saved.connector||'')}" oninput="saveGuidedField(${d},'connector',this.value)">
-     <div id="guidedConnectorFeedback-${d}" class="answerFeedback"></div>
-   </div>
-
-   <div class="guidedQuestion">
-     <label>4. What is one reason given in the text?</label>
-     <input id="guidedReason-${d}" type="text" placeholder="Answer in English or Spanish" value="${escapeHTML(saved.reason||'')}" oninput="saveGuidedField(${d},'reason',this.value)">
-     <div id="guidedReasonFeedback-${d}" class="answerFeedback"></div>
-   </div>
-
-   <div class="btnrow">
-     <button type="button" class="btn" onclick="checkGuidedAnswers(${d})">Check all 4 answers</button>
-   </div>
-
+   <p><strong>Step 2 · Guided reading.</strong> Answer four questions about today's text.</p>
+   ${data.guidedQuestions.map((q,i)=>`<div class="guidedQuestion">
+     <label>${i+1}. ${escapeHTML(q)}</label>
+     <input id="guidedQ${i+1}-${d}" type="text" placeholder="Type your answer" value="${escapeHTML(saved['q'+(i+1)]||'')}" oninput="saveGuidedField(${d},'q${i+1}',this.value)">
+     <div id="guidedQ${i+1}Feedback-${d}" class="answerFeedback"></div>
+   </div>`).join('')}
+   <div class="btnrow"><button type="button" class="btn" onclick="checkGuidedAnswers(${d})">Check all 4 answers</button></div>
    <div id="guidedSummary-${d}" class="guidedSummary">${saved.summary||''}</div>
-
-   <details class="guidedSupport">
-     <summary>Need a hint?</summary>
-     <p><em>esta semana</em> often points toward pretérito perfecto; <em>ayer</em> often points toward indefinido; <em>antes</em> can introduce imperfect background.</p>
-   </details>
+   <details class="guidedSupport"><summary>Need a hint?</summary><p>Look back at today's passage and answer from meaning and context. The questions now change every day.</p></details>
  </div>`;
 }
-
 
 function saveGuidedField(d,key,value){
  state.guidedAnswers[d]=state.guidedAnswers[d]||{};
@@ -405,76 +399,28 @@ function setGuidedFeedback(id,correct,message){
 }
 
 function checkGuidedAnswers(d){
- const present=document.getElementById('guidedPresent-'+d)?.value||'';
- const past=document.getElementById('guidedPast-'+d)?.value||'';
- const connector=document.getElementById('guidedConnector-'+d)?.value||'';
- const reason=document.getElementById('guidedReason-'+d)?.value||'';
-
- saveGuidedField(d,'present',present);
- saveGuidedField(d,'past',past);
- saveGuidedField(d,'connector',connector);
- saveGuidedField(d,'reason',reason);
-
- const p=normalizeGuidedAnswer(present);
- const pa=normalizeGuidedAnswer(past);
- const c=normalizeGuidedAnswer(connector);
- const r=normalizeGuidedAnswer(reason);
-
- const presentAnswers=['vive','trabaja','quiere','intenta'];
- const pastAnswers=['ha empezado','empezado','fue','conocio','tenia'];
- const connectorAnswers=['porque','pero'];
-
- const presentOK=presentAnswers.some(x=>p===normalizeGuidedAnswer(x));
- const pastOK=pastAnswers.some(x=>pa===normalizeGuidedAnswer(x));
- const connectorOK=connectorAnswers.some(x=>c===normalizeGuidedAnswer(x));
-
- const reasonGroups=[
-   ['quiere','aprender','nuevo'],
-   ['aprender','algo','nuevo'],
-   ['wants','learn','new'],
-   ['wants','something','new'],
-   ['learn','something','new']
- ];
- const reasonOK=reasonGroups.some(group=>group.filter(t=>r.includes(normalizeGuidedAnswer(t))).length>=2);
-
- setGuidedFeedback(
-   'guidedPresentFeedback-'+d,
-   presentOK,
-   presentOK
-    ?'Correct. That is a present-tense verb form from the passage.'
-    :'Try again. Valid examples include vive, trabaja, quiere, or intenta.'
- );
-
- setGuidedFeedback(
-   'guidedPastFeedback-'+d,
-   pastOK,
-   pastOK
-    ?'Correct. That is a past-tense form from the passage.'
-    :'Try again. Valid examples include ha empezado, fue, conoció, or tenía.'
- );
-
- setGuidedFeedback(
-   'guidedConnectorFeedback-'+d,
-   connectorOK,
-   connectorOK
-    ?'Correct. That connector links ideas in the passage.'
-    :'Try again. The clearest connectors here are porque and pero.'
- );
-
- setGuidedFeedback(
-   'guidedReasonFeedback-'+d,
-   reasonOK,
-   reasonOK
-    ?'Correct. Lucía starts the photography course because she wants to learn something new.'
-    :'Try again. Look at the clause after porque.'
- );
-
- const score=[presentOK,pastOK,connectorOK,reasonOK].filter(Boolean).length;
+ const data=dayPracticeData[d-1];
+ let score=0;
+ data.guidedQuestions.forEach((q,i)=>{
+   const key='q'+(i+1);
+   const raw=document.getElementById(`guidedQ${i+1}-${d}`)?.value||'';
+   saveGuidedField(d,key,raw);
+   const value=normalizeGuidedAnswer(raw);
+   const accepted=data.guidedAnswers[i]||[];
+   const ok=accepted.some(a=>{
+     const target=normalizeGuidedAnswer(a);
+     return value===target || (target.length>3 && value.includes(target));
+   });
+   if(ok)score++;
+   setGuidedFeedback(
+     `guidedQ${i+1}Feedback-${d}`,
+     ok,
+     ok?'Correct.':'Try again. Re-read the sentence that contains the answer.'
+   );
+ });
  const summary=`<strong>${score}/4 correct</strong>${score===4?' · Excellent.':' · Fix the red answers and check again.'}`;
-
  const summaryEl=document.getElementById('guidedSummary-'+d);
  if(summaryEl)summaryEl.innerHTML=summary;
-
  state.guidedAnswers[d]=state.guidedAnswers[d]||{};
  state.guidedAnswers[d].summary=summary;
  state.guidedAnswers[d].readingScore=score;
@@ -495,7 +441,7 @@ async function checkGuidedTranslation(d){
  saveGuidedField(d,'translation',translation);
  out.innerHTML='<div class="feedbackLoading">Checking meaning, completeness, and tense understanding…</div>';
 
- const original=`Lucía vive en Valencia y trabaja en una biblioteca. Esta semana ha empezado un curso de fotografía porque quiere aprender algo nuevo. Ayer fue a su primera clase y conoció a tres compañeros. Antes no tenía mucho tiempo libre, pero ahora intenta organizarse mejor.`;
+ const original=dayPracticeData[d-1].passage;
 
  const prompt=`Check this English translation of a Spanish B1 reading passage.
 
@@ -536,10 +482,10 @@ WHAT YOU GOT RIGHT:
 Your translation has been saved.
 
 WHAT TO FIX:
-Make sure you include all four time references: this week, yesterday, before, and now. Also preserve the reason introduced by porque.
+Check that your English version preserves the complete meaning, people, time references, and key grammar from today's passage.
 
 MODEL TRANSLATION:
-Lucía lives in Valencia and works in a library. This week she has started a photography course because she wants to learn something new. Yesterday she went to her first class and met three classmates. Before, she did not have much free time, but now she is trying to organize herself better.`;
+Groq is unavailable, so compare your translation sentence by sentence with the Spanish passage and make sure no information was omitted.`;
  }
 
  state.guidedAnswers[d]=state.guidedAnswers[d]||{};
@@ -550,81 +496,113 @@ Lucía lives in Valencia and works in a library. This week she has started a pho
 }
 
 const bundledListeningClips=[{"file":"tren_retraso.wav","text":"Atención, pasajeros. El tren con destino a Sevilla saldrá del andén número cuatro con diez minutos de retraso. Les recomendamos permanecer cerca del andén y escuchar los próximos avisos.","question":"¿Qué ha cambiado?","correct":"El tren lleva diez minutos de retraso.","wrong":"El andén está cerrado.","mp3File":"tren_retraso.mp3","macFile":"clear_spanish_1.wav"},{"file":"cita_medica.wav","text":"Buenos días. Le llamamos de la clínica para informarle de que su cita del martes a las nueve se ha cambiado al miércoles a las once y media. Si ese horario no le conviene, llámenos antes de las seis.","question":"¿Cuándo es ahora la cita?","correct":"El miércoles a las once y media.","wrong":"El martes a las nueve.","mp3File":"cita_medica.mp3","macFile":"clear_spanish_2.wav"},{"file":"supermercado.wav","text":"Estimados clientes. Hoy el supermercado cerrará a las ocho de la tarde, una hora antes de lo habitual, por trabajos de mantenimiento. Mañana abriremos normalmente a las nueve.","question":"¿A qué hora cierra hoy el supermercado?","correct":"A las ocho de la tarde.","wrong":"A las nueve de la noche.","mp3File":"supermercado.mp3","macFile":"clear_spanish_3.wav"},{"file":"curso_espanol.wav","text":"El curso de conversación empieza el cinco de septiembre. Las clases son los lunes y miércoles de seis a siete y media de la tarde. Para inscribirse, hay que completar el formulario antes del treinta de agosto.","question":"¿Qué hay que hacer antes del treinta de agosto?","correct":"Completar el formulario de inscripción.","wrong":"Ir a la primera clase.","mp3File":"curso_espanol.mp3","macFile":"clear_spanish_4.wav"},{"file":"hotel_desayuno.wav","text":"Les recordamos que el desayuno se sirve de siete a diez de la mañana en la primera planta. Los sábados y domingos termina a las once. Para pedir desayuno en la habitación, marque el número cinco.","question":"¿Hasta qué hora se sirve el desayuno los domingos?","correct":"Hasta las once.","wrong":"Hasta las diez.","mp3File":"hotel_desayuno.mp3","macFile":"clear_spanish_5.wav"}];
-function independent(d){ setTimeout(()=>applySavedAudioSpeed(d),80);
- const clip=bundledListeningClips[(d-1)%bundledListeningClips.length];
- let passage=`Lucía vive en Valencia y trabaja en una biblioteca. Esta semana ha empezado un curso de fotografía porque quiere aprender algo nuevo. Ayer fue a su primera clase y conoció a tres compañeros. Antes no tenía mucho tiempo libre, pero ahora intenta organizarse mejor.`;
+function independent(d){ 
+ const data=dayPracticeData[d-1];
  return `<div class="grid">
- <div class="card c6"><h4>Reading</h4><p><strong>Aviso:</strong> Se alquila habitación luminosa cerca del centro. Gastos incluidos. No se admiten mascotas. Disponible a partir del 1 de agosto.</p><p>Question: Which person should <em>not</em> choose this room?</p><div class="btnrow skillAnswers">
-  <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Reading',true)">A person with a dog</button>
-  <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Reading',false)">A person who likes the center</button>
-</div><div class="sub skillFeedback"></div></div>
- <div class="card c6"><h4>Listening</h4>
-   <p class="sub">The listening files are generated automatically from your Mac’s Spanish voice when you launch the app with START_APP.command. Playback speed can be adjusted here.</p>
+ <div class="card c6"><h4>Reading · ${escapeHTML(data.title)}</h4><p>${escapeHTML(data.readingText)}</p><p><strong>${escapeHTML(data.readingQuestion)}</strong></p><div class="btnrow skillAnswers">
+  <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Reading',true)">${escapeHTML(data.readingCorrect)}</button>
+  <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Reading',false)">${escapeHTML(data.readingWrong)}</button>
+ </div><div class="sub skillFeedback"></div></div>
+
+ <div class="card c6"><h4>Listening · Day ${d}</h4>
+   <p class="sub">A different Spanish listening passage is used every day and follows today's grammar/topic: <strong>${escapeHTML(data.title)}</strong>.</p>
    <div class="systemVoiceCard">
-     <div class="metricLabel">Spanish listening audio</div>
-     <p class="sub">This player uses a Spanish audio file generated by your Mac’s own Spanish voice.</p>
-
-     <div class="nativeAudioWrap">
-       <audio id="nativeAudio-${d}" controls preload="metadata" onplay="markListeningAttempt(${d})" onloadedmetadata="audioReady(${d})" onerror="audioMissing(${d})">
-         <source src="audio/${clip.macFile}?v=3" type="audio/wav">
-         Your browser does not support WAV playback.
-       </audio>
+     <div class="metricLabel">Spanish audio</div>
+     <div class="btnrow" style="margin-top:10px">
+       <button type="button" class="btn" onclick="playDailyListening(${d})">▶ Play audio</button>
+       <button type="button" class="btn ghost" onclick="stopDailyListening()">■ Stop</button>
+       <button type="button" class="btn ghost" onclick="revealDailyTranscript(${d})">Reveal transcript</button>
      </div>
-
-     <div class="audioSpeedRow">
+     <div class="audioSpeedRow" style="margin-top:12px">
        <span class="metricLabel">Playback speed</span>
        <div class="speedButtons">
-         <button type="button" class="speedBtn" onclick="setAudioSpeed(${d},0.8,this)">0.8×</button>
-         <button type="button" class="speedBtn" onclick="setAudioSpeed(${d},0.9,this)">0.9×</button>
-         <button type="button" class="speedBtn active" onclick="setAudioSpeed(${d},1,this)">1× Normal</button>
-         <button type="button" class="speedBtn" onclick="setAudioSpeed(${d},1.1,this)">1.1×</button>
+         <button type="button" class="speedBtn" onclick="setDailyListeningRate(0.82,this)">0.82×</button>
+         <button type="button" class="speedBtn active" onclick="setDailyListeningRate(0.92,this)">0.92×</button>
+         <button type="button" class="speedBtn" onclick="setDailyListeningRate(1.0,this)">1×</button>
+         <button type="button" class="speedBtn" onclick="setDailyListeningRate(1.08,this)">1.08×</button>
        </div>
      </div>
-
-     <div class="btnrow" style="margin-top:10px">
-       <button type="button" class="btn ghost" onclick="restartNativeAudio(${d})">↻ Replay from start</button>
-       <button type="button" class="btn ghost" onclick="revealTranscript(${d})">Reveal transcript</button>
-     </div>
-
-     <div id="audioStatus-${d}" class="sub" style="margin-top:8px">Speed: 1× normal</div>
+     <div id="audioStatus-${d}" class="sub" style="margin-top:8px">Ready · unique Day ${d} audio</div>
    </div>
-   <div id="transcript-${d}" style="display:none;margin-top:10px" class="notice">${clip.text}</div>
-   <p><strong>${clip.question}</strong></p>
+   <div id="transcript-${d}" style="display:none;margin-top:10px" class="notice">${escapeHTML(data.listeningText)}</div>
+   <p><strong>${escapeHTML(data.listeningQuestion)}</strong></p>
    <div class="btnrow skillAnswers">
-     <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Listening',true)">${clip.correct}</button>
-     <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Listening',false)">${clip.wrong}</button>
-   </div><div class="sub skillFeedback"></div>
+     <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Listening',true)">${escapeHTML(data.listeningCorrect)}</button>
+     <button type="button" class="btn ghost" onclick="gradeSkillAnswer(this,'Listening',false)">${escapeHTML(data.listeningWrong)}</button>
+   </div>
+   <div class="sub skillFeedback"></div>
  </div>
- <div class="card c6"><h4>Writing</h4><p>Write 80–110 words to a friend about a new activity you started. Explain why, describe your first experience, and propose doing it together.</p><textarea id="write-${d}" oninput="saveWritingDraft(${d},this.value);wordCount(${d})">${escapeHTML(state.writingDrafts[d]||'')}</textarea><div id="wc-${d}" class="sub">${((state.writingDrafts[d]||'').trim().match(/\S+/g)||[]).length} words · target 80–110</div><div class="btnrow"><button class="btn" onclick="submitWritingForFeedback(${d})">Save answer & get feedback</button><button class="btn ghost" onclick="go('writinghistory')">View past answers</button></div><div id="wscore-${d}" class="writingFeedbackBox">${latestWritingFeedback(d)}</div><p class="sub">Every submitted version is saved, so you can compare your writing over time.</p></div>
+
+ <div class="card c6"><h4>Writing · Today's task</h4><p>${escapeHTML(data.writingPrompt)}</p><textarea id="write-${d}" oninput="saveWritingDraft(${d},this.value);wordCount(${d})">${escapeHTML(state.writingDrafts[d]||'')}</textarea><div id="wc-${d}" class="sub">${((state.writingDrafts[d]||'').trim().match(/\S+/g)||[]).length} words</div><div class="btnrow"><button class="btn" onclick="submitWritingForFeedback(${d})">Save answer & get feedback</button><button class="btn ghost" onclick="go('writinghistory')">View past answers</button></div><div id="wscore-${d}" class="writingFeedbackBox">${latestWritingFeedback(d)}</div></div>
+
  <div class="card c12 speakingCard">
-  <div class="speakingHeader">
-    <div>
-      <h4>Speaking</h4>
-      <p>Respond aloud to the speaking task. You can record with speech recognition where supported, or type/edit the transcript manually.</p>
-    </div>
-    <div class="speakingTimer" aria-label="Speaking timer">01:30</div>
-  </div>
-
-  <div class="speakingControls">
-    <button type="button" class="btn" onclick="startSpeakingRecording(${d})">● Start recording</button>
-    <button type="button" class="btn ghost" onclick="stopSpeakingRecording()">■ Stop recording</button>
-  </div>
-
-  <div id="recordingStatus-${d}" class="sub recordingStatus">Not recording.</div>
-
-  <label class="speakingTranscriptLabel" for="speak-${d}">Transcript</label>
-  <textarea id="speak-${d}" class="speakingTranscript" placeholder="Your speech transcription or fallback text..." oninput="saveSpeakingDraft(${d},this.value)">${escapeHTML(state.speakingDrafts[d]||'')}</textarea>
-
-  <div class="btnrow speakingActions">
-    <button type="button" class="btn" onclick="submitSpeakingForFeedback(${d})">Save response & get feedback</button>
-    <button type="button" class="btn ghost" onclick="go('speakinghistory')">View past speaking</button>
-  </div>
-
-  <div id="speakFeedback-${d}" class="writingFeedbackBox">${latestSpeakingFeedback(d)}</div>
-
-  <p class="sub">Every submitted transcript is saved so you can compare your speaking over time.</p>
-</div><div id="recording-${d}" class="sub"></div><div id="timer-${d}" class="metric">01:30</div><textarea id="speech-${d}" placeholder="Speech transcription or fallback text..."></textarea></div>
+   <h4>Speaking · Today's task</h4>
+   <p>${escapeHTML(data.speakingPrompt)}</p>
+   <div class="speakingControls"><button type="button" class="btn" onclick="startSpeakingRecording(${d})">● Start recording</button><button type="button" class="btn ghost" onclick="stopSpeakingRecording()">■ Stop recording</button></div>
+   <div id="recordingStatus-${d}" class="sub recordingStatus">Not recording.</div>
+   <label class="speakingTranscriptLabel" for="speak-${d}">Transcript</label>
+   <textarea id="speak-${d}" class="speakingTranscript" placeholder="Your speech transcription or fallback text..." oninput="saveSpeakingDraft(${d},this.value)">${escapeHTML(state.speakingDrafts[d]||'')}</textarea>
+   <div class="btnrow speakingActions"><button type="button" class="btn" onclick="submitSpeakingForFeedback(${d})">Save response & get feedback</button><button type="button" class="btn ghost" onclick="go('speakinghistory')">View past speaking</button></div>
+   <div id="speakFeedback-${d}" class="writingFeedbackBox">${latestSpeakingFeedback(d)}</div>
+ </div>
  </div>`;
+}
+
+
+let dailyListeningUtterance=null;
+let dailyListeningRate=Number(localStorage.getItem('dailyListeningRate')||'0.92');
+
+function spanishBrowserVoice(){
+ const voices=window.speechSynthesis?.getVoices?.()||[];
+ return voices.find(v=>/^es[-_]/i.test(v.lang)&&/Spain|España|Spanish/i.test(v.name))
+     || voices.find(v=>/^es[-_]/i.test(v.lang))
+     || null;
+}
+
+function playDailyListening(d){
+ const data=dayPracticeData[d-1];
+ if(!data||!data.listeningText)return;
+ stopDailyListening();
+
+ if(!('speechSynthesis' in window)){
+   const status=document.getElementById('audioStatus-'+d);
+   if(status)status.textContent='Browser speech audio is not supported here.';
+   return;
+ }
+
+ const u=new SpeechSynthesisUtterance(data.listeningText);
+ u.lang='es-ES';
+ u.rate=dailyListeningRate;
+ const voice=spanishBrowserVoice();
+ if(voice)u.voice=voice;
+
+ dailyListeningUtterance=u;
+ state.listenAttempts[d]=(state.listenAttempts[d]||0)+1;
+ save();
+
+ const status=document.getElementById('audioStatus-'+d);
+ u.onstart=()=>{if(status)status.textContent=`Playing Day ${d} audio at ${dailyListeningRate}×…`;};
+ u.onend=()=>{if(status)status.textContent='Finished. Replay before revealing the transcript.';dailyListeningUtterance=null;};
+ u.onerror=()=>{if(status)status.textContent='Audio playback failed. Try Chrome or Safari with a Spanish system voice enabled.';dailyListeningUtterance=null;};
+
+ window.speechSynthesis.speak(u);
+}
+
+function stopDailyListening(){
+ if('speechSynthesis' in window)window.speechSynthesis.cancel();
+ dailyListeningUtterance=null;
+}
+
+function setDailyListeningRate(rate,btn){
+ dailyListeningRate=Number(rate)||0.92;
+ localStorage.setItem('dailyListeningRate',String(dailyListeningRate));
+ document.querySelectorAll('.speedBtn').forEach(b=>b.classList.remove('active'));
+ if(btn)btn.classList.add('active');
+}
+
+function revealDailyTranscript(d){
+ const el=document.getElementById('transcript-'+d);
+ if(el)el.style.display=el.style.display==='none'?'block':'none';
 }
 
 let activeAudio=null;
@@ -883,7 +861,7 @@ async function submitWritingForFeedback(d){
  const out=document.getElementById('wscore-'+d);
  if(out)out.innerHTML='<div class="feedbackLoading">Saving your answer and preparing feedback…</div>';
  const prompt=`DELE B1 writing task:
-Write 80–110 words to a friend about a new activity you started. Explain why, describe your first experience, and propose doing it together.
+${dayPracticeData[d-1].writingPrompt}
 
 Student answer:
 ${text}
@@ -921,7 +899,8 @@ IMPROVED VERSION:
 Submit again when Groq is available for a corrected version.`;
  }
  const attempt={
-   id:Date.now(),day:d,date:new Date().toISOString(),dateLabel:new Date().toLocaleString(),
+   id:Date.now(),type:'writing',day:d,date:new Date().toISOString(),dateLabel:new Date().toLocaleString(),
+   task:dayPracticeData[d-1].writingPrompt,
    answer:text,words:(text.match(/\S+/g)||[]).length,score:local.score,feedback
  };
  state.writingHistory.push(attempt);
@@ -952,38 +931,15 @@ function stopSpeech(){
  activeRecognitionDay=null;
 }
 function vocabCheckpoint(d){
- const words=[
-  ['busco',"I'm looking for"],
-  ['estación','station'],
-  ['tengo','I have'],
-  ['aunque','although'],
-  ['mejor','better'],
-  ['ayer','yesterday'],
-  ['además','in addition'],
-  ['quedar','to arrange to meet'],
-  ['parece','seems'],
-  ['ayuda','help']
- ];
-
+ const words=dayPracticeData[d-1].vocab;
  const buttons=words.map(([word,meaning])=>{
-   const safeWord=escapeHTML(word);
-   const safeMeaning=escapeHTML(meaning);
-   return `<button type="button" class="btn ghost vocabToken"
-     data-word="${safeWord}"
-     data-meaning="${safeMeaning}"
-     onclick="showVocabWordFromButton(this)">${safeWord}</button>`;
+   const safeWord=escapeHTML(word),safeMeaning=escapeHTML(meaning);
+   return `<button type="button" class="btn ghost vocabToken" data-word="${safeWord}" data-meaning="${safeMeaning}" onclick="showVocabWordFromButton(this)">${safeWord}</button>`;
  }).join('');
-
- return `<p>Spaced repetition checkpoint: say the English meaning before clicking.</p>
+ return `<p>Today's vocabulary checkpoint: say the English meaning before clicking.</p>
  <div class="btnrow">${buttons}</div>
- <div class="vocabRevealBox" id="vocabReveal-${d}">
-   <div class="metricLabel">Meaning</div>
-   <div class="vocabRevealText">Click a word above to reveal its meaning.</div>
-   <div class="btnrow vocabRevealActions" style="display:none;margin-top:10px">
-     <button type="button" class="btn vocabRevealAdd">＋ Add to bucket</button>
-   </div>
- </div>
- <p class="sub">Click a word to reveal its meaning instantly. Groq can refine the translation in the background when configured.</p>`;
+ <div class="vocabRevealBox" id="vocabReveal-${d}"><div class="metricLabel">Meaning</div><div class="vocabRevealText">Click a word above to reveal its meaning.</div><div class="btnrow vocabRevealActions" style="display:none;margin-top:10px"><button type="button" class="btn vocabRevealAdd">＋ Add to bucket</button></div></div>
+ <p class="sub">This vocabulary set is specific to Day ${d}: ${escapeHTML(dayPracticeData[d-1].title)}.</p>`;
 }
 
 function escapeHTML(value){
@@ -1412,7 +1368,8 @@ async function submitSpeakingForFeedback(d){
  const out=document.getElementById('speakFeedback-'+d);
  if(out)out.innerHTML='<div class="feedbackLoading">Saving your speaking response and preparing feedback…</div>';
 
- const prompt=`DELE B1 speaking practice.
+ const task=dayPracticeData[d-1].speakingPrompt;
+ const prompt=`Today's speaking task:\n${task}\n\nDELE B1 speaking practice.
 
 Student transcript:
 ${text}
@@ -1463,9 +1420,11 @@ Give a slightly longer answer with clear connectors and one concrete example.`;
 
  const attempt={
    id:Date.now(),
+   type:'speaking',
    day:d,
    date:new Date().toISOString(),
    dateLabel:new Date().toLocaleString(),
+   task:dayPracticeData[d-1].speakingPrompt,
    transcript:text,
    words:(text.match(/\S+/g)||[]).length,
    score:local.score,
@@ -1479,7 +1438,7 @@ Give a slightly longer answer with clear connectors and one concrete example.`;
 }
 
 function speakingHistoryPage(){
- const all=[...(state.speakingHistory||[])].sort((a,b)=>b.id-a.id);
+ const all=[...(state.speakingHistory||[])].filter(x=>x&&x.transcript&&!x.answer).sort((a,b)=>b.id-a.id);
  const days=[...new Set(all.map(x=>x.day))].sort((a,b)=>a-b);
 
  return `<div class="grid">
@@ -1502,6 +1461,7 @@ function speakingAttemptCard(x){
      <div><span class="dayTag">Day ${x.day}</span><h3>Saved speaking attempt</h3><div class="sub">${escapeHTML(x.dateLabel||'')} · ${x.words||0} words · ${x.score||'—'}% practice score${wordDiff===null?'':` · ${wordDiff>=0?'+':''}${wordDiff} words vs previous Day ${x.day} attempt`}</div></div>
      <button class="btn ghost" onclick="loadSpeakingAttempt(${x.id})">Use as new draft</button>
    </div>
+   ${x.task?`<div class="savedTask"><div class="metricLabel">Speaking task</div><p>${escapeHTML(x.task)}</p></div>`:''}
    <div class="compareGrid">
      <div><div class="metricLabel">Your transcript</div><div class="savedWriting spanishZone">${escapeHTML(x.transcript||'').replace(/\n/g,'<br>')}</div></div>
      <div><div class="metricLabel">Feedback</div><div class="savedFeedback">${formatFeedback(x.feedback||'')}</div></div>
@@ -1534,7 +1494,7 @@ function notebookPage(){
  <div class="card hero c12"><span class="pill">Active Recall Notebook</span><h2>Your memory practice, saved by day.</h2><p>Everything you type in <strong>7. Active recall</strong> is automatically saved here. Revisit old entries to see what you could retrieve from memory at each stage of the course.</p></div>
  <div class="card c12">${saved.length?`<div class="notebookList">${saved.map(d=>`
    <div class="notebookEntry">
-     <div class="notebookHead"><div><span class="dayTag">Day ${d}</span><strong>${escapeHTML((deleTopics[d-1]&&deleTopics[d-1][0])||'DELE practice')}</strong></div><button class="btn ghost" onclick="openDeleDay(${d})">Open Day ${d}</button></div>
+     <div class="notebookHead"><div><span class="dayTag">Day ${d}</span><strong>${escapeHTML((days[d-1]&&days[d-1][0])||'DELE practice')}</strong></div><button class="btn ghost" onclick="openDeleDay(${d})">Open Day ${d}</button></div>
      <textarea oninput="saveNotebookEdit(${d},this.value)">${escapeHTML(state.activeRecall[d]||'')}</textarea>
      <div class="saveIndicator">Saved automatically</div>
    </div>`).join('')}</div>`:`<div class="emptyState"><h3>Your notebook is empty.</h3><p>Complete the “7. Active recall” section in any DELE day and it will appear here automatically.</p><button class="btn" onclick="go('plan')">Open 30-Day Plan</button></div>`}</div>
@@ -1542,7 +1502,7 @@ function notebookPage(){
 }
 function saveNotebookEdit(d,text){state.activeRecall[d]=text;save();}
 function writingHistoryPage(){
- const all=[...(state.writingHistory||[])].sort((a,b)=>b.id-a.id);
+ const all=[...(state.writingHistory||[])].filter(x=>x&&x.answer&&!x.transcript).sort((a,b)=>b.id-a.id);
  const days=[...new Set(all.map(x=>x.day))].sort((a,b)=>a-b);
  return `<div class="grid">
  <div class="card hero c12"><span class="pill">Writing Portfolio</span><h2>Compare your Spanish writing over time.</h2><p>Every time you choose <strong>Save answer & get feedback</strong>, that version is stored here with its feedback. Older attempts are never overwritten.</p></div>
@@ -1557,6 +1517,7 @@ function writingAttemptCard(x,i){
  const wordDiff=previous?x.words-previous.words:null;
  return `<div class="card writingAttempt" data-writing-day="${x.day}">
    <div class="writingAttemptHead"><div><span class="dayTag">Day ${x.day}</span><h3>Saved attempt</h3><div class="sub">${escapeHTML(x.dateLabel||'')} · ${x.words||0} words · ${x.score||'—'}% practice score${wordDiff===null?'':` · ${wordDiff>=0?'+':''}${wordDiff} words vs previous Day ${x.day} attempt`}</div></div><button class="btn ghost" onclick="loadWritingAttempt(${x.id})">Use as new draft</button></div>
+   ${x.task?`<div class="savedTask"><div class="metricLabel">Writing task</div><p>${escapeHTML(x.task)}</p></div>`:''}
    <div class="compareGrid"><div><div class="metricLabel">Your answer</div><div class="savedWriting spanishZone">${escapeHTML(x.answer||'').replace(/\n/g,'<br>')}</div></div><div><div class="metricLabel">Feedback</div><div class="savedFeedback">${formatFeedback(x.feedback||'')}</div></div></div>
  </div>`;
 }
