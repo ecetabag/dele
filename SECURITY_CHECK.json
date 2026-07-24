@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "no_frontend_key_prompt": true,
+    "ai_translate_uses_proxy": true,
+    "frontend_uses_api_proxy": true,
+    "server_uses_env_secret": true,
+    "frontend_syntax_ok": true,
+    "api_syntax_ok": true
+  },
+  "frontend_error": "",
+  "api_error": ""
+}
