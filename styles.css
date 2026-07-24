@@ -400,3 +400,27 @@ textarea{min-height:110px;resize:vertical}
 
 .savedTask{margin:12px 0 16px;padding:12px 14px;border:1px solid var(--line);border-radius:12px;background:var(--blue)}
 .savedTask p{margin:5px 0 0;line-height:1.55}
+
+
+.sourceIndexTasks{border:2px solid #d7e2f3;background:#fbfdff}
+.sourceIndexBanner{display:flex;justify-content:space-between;align-items:flex-start;gap:14px;margin-bottom:18px}
+.sourceIndexBanner h3{margin:4px 0}
+.sourceIndexLecture,.sourceIndexBlock{padding:18px;border:1px solid var(--line);border-radius:16px;background:#fff;margin-top:14px}
+.sourceIndexTasks .passage{white-space:pre-line;line-height:1.7;background:#fbfcff;border:1px solid var(--line);border-radius:16px;padding:16px;margin:10px 0}
+.sourceIndexTasks .question{padding:18px;border:1px solid var(--line);border-radius:18px;margin:14px 0}
+.sourceIndexTasks .question p{font-weight:650}
+.sourceIndexTasks .options{display:grid;gap:9px}
+.sourceIndexTasks .option{display:block;padding:11px 13px;border:1px solid var(--line);border-radius:12px;cursor:pointer;background:#fff;width:100%;text-align:left}
+.sourceIndexTasks .feedback{padding:12px 14px;border-radius:12px;margin-top:10px;background:#f6f8fb;color:#455266}
+.sourceIndexTasks .feedback.ok{background:#e9f9ef;color:#17683b}
+.sourceIndexTasks .feedback.no{background:#fff0f1;color:#9b2f3a}
+.sourceIndexTasks .writer{width:100%;min-height:210px;border:1px solid #cfd7e3;border-radius:16px;padding:14px;resize:vertical}
+.sourceIndexTasks .wordcount{font-size:12px;color:var(--muted);margin-top:6px}
+.sourceIndexTasks .audio-box{display:flex;gap:10px;align-items:center;padding:15px;background:#f3f7ff;border-radius:16px;flex-wrap:wrap}
+.sourceIndexTasks .mic-box{padding:16px;background:#fff7f8;border:1px solid #ffd8dc;border-radius:16px}
+.sourceIndexTasks .transcript{min-height:90px;padding:12px;background:#fff;border:1px solid var(--line);border-radius:12px;margin-top:10px}
+.sourceIndexTasks .exam-timer{font-variant-numeric:tabular-nums;font-size:26px;font-weight:900}
+.sourceIndexTasks .actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:15px}
+.sourceIndexTasks .hidden{display:none!important}
+.sourceIndexTasks .note-box{background:#fff9e8;border:1px solid #f4d98e;border-radius:16px;padding:14px;margin:13px 0}
+.sourceIndexTasks .example{background:#f8faff;border-left:4px solid #3778f0;padding:14px;border-radius:0 14px 14px 0;margin:12px 0}
